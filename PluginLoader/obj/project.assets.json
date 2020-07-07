@@ -1,0 +1,175 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "System.ComponentModel.Composition/5.0.0-preview.6.20305.6": {
+        "type": "package",
+        "compile": {
+          "ref/netstandard2.0/System.ComponentModel.Composition.dll": {}
+        },
+        "runtime": {
+          "lib/netcoreapp2.0/System.ComponentModel.Composition.dll": {}
+        }
+      },
+      "System.Reflection.Context/5.0.0-preview.6.20305.6": {
+        "type": "package",
+        "compile": {
+          "ref/netstandard2.0/System.Reflection.Context.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.1/System.Reflection.Context.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "System.ComponentModel.Composition/5.0.0-preview.6.20305.6": {
+      "sha512": "lGbcEaaUNDArPln0H6lsPNQQwVvHr+kjJ5g92sx1uA+XNulhzvFNFX0g26jMCZPAdifs0KTa4sBkaqz246PQwQ==",
+      "type": "package",
+      "path": "system.componentmodel.composition/5.0.0-preview.6.20305.6",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "Icon.png",
+        "LICENSE.TXT",
+        "THIRD-PARTY-NOTICES.TXT",
+        "lib/MonoAndroid10/_._",
+        "lib/MonoTouch10/_._",
+        "lib/net45/_._",
+        "lib/netcoreapp2.0/System.ComponentModel.Composition.dll",
+        "lib/netcoreapp2.0/System.ComponentModel.Composition.xml",
+        "lib/netstandard2.0/System.ComponentModel.Composition.dll",
+        "lib/netstandard2.0/System.ComponentModel.Composition.xml",
+        "lib/uap10.0.16299/_._",
+        "lib/xamarinios10/_._",
+        "lib/xamarinmac20/_._",
+        "lib/xamarintvos10/_._",
+        "lib/xamarinwatchos10/_._",
+        "ref/MonoAndroid10/_._",
+        "ref/MonoTouch10/_._",
+        "ref/net45/_._",
+        "ref/netstandard2.0/System.ComponentModel.Composition.dll",
+        "ref/uap10.0.16299/_._",
+        "ref/xamarinios10/_._",
+        "ref/xamarinmac20/_._",
+        "ref/xamarintvos10/_._",
+        "ref/xamarinwatchos10/_._",
+        "system.componentmodel.composition.5.0.0-preview.6.20305.6.nupkg.sha512",
+        "system.componentmodel.composition.nuspec",
+        "useSharedDesignerContext.txt",
+        "version.txt"
+      ]
+    },
+    "System.Reflection.Context/5.0.0-preview.6.20305.6": {
+      "sha512": "Pq/WwaL7uNATsTS7WCYQXICBLUxsE9hIZI8hyPnqmk7GgEVm7aOX6yFvsTkqOuhd99BYJEfpLezDMSHP/wX3Xw==",
+      "type": "package",
+      "path": "system.reflection.context/5.0.0-preview.6.20305.6",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "Icon.png",
+        "LICENSE.TXT",
+        "THIRD-PARTY-NOTICES.TXT",
+        "lib/net45/_._",
+        "lib/netcore50/System.Reflection.Context.dll",
+        "lib/netstandard1.1/System.Reflection.Context.dll",
+        "lib/netstandard1.1/System.Reflection.Context.xml",
+        "lib/netstandard2.0/System.Reflection.Context.dll",
+        "lib/netstandard2.0/System.Reflection.Context.xml",
+        "lib/netstandard2.1/System.Reflection.Context.dll",
+        "lib/netstandard2.1/System.Reflection.Context.xml",
+        "lib/portable-net45+win8/_._",
+        "ref/net45/_._",
+        "ref/netcore50/System.Reflection.Context.dll",
+        "ref/netcore50/System.Reflection.Context.xml",
+        "ref/netcore50/de/System.Reflection.Context.xml",
+        "ref/netcore50/es/System.Reflection.Context.xml",
+        "ref/netcore50/fr/System.Reflection.Context.xml",
+        "ref/netcore50/it/System.Reflection.Context.xml",
+        "ref/netcore50/ja/System.Reflection.Context.xml",
+        "ref/netcore50/ko/System.Reflection.Context.xml",
+        "ref/netcore50/ru/System.Reflection.Context.xml",
+        "ref/netcore50/zh-hans/System.Reflection.Context.xml",
+        "ref/netcore50/zh-hant/System.Reflection.Context.xml",
+        "ref/netstandard1.1/System.Reflection.Context.dll",
+        "ref/netstandard2.0/System.Reflection.Context.dll",
+        "ref/portable-net45+win8/_._",
+        "system.reflection.context.5.0.0-preview.6.20305.6.nupkg.sha512",
+        "system.reflection.context.nuspec",
+        "useSharedDesignerContext.txt",
+        "version.txt"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v5.0": [
+      "System.ComponentModel.Composition >= 5.0.0-preview.6.20305.6",
+      "System.Reflection.Context >= 5.0.0-preview.6.20305.6"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Zekie\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "D:\\Dev\\MLClassifierStation\\PluginLoader\\PluginLoader.csproj",
+      "projectName": "PluginLoader",
+      "projectPath": "D:\\Dev\\MLClassifierStation\\PluginLoader\\PluginLoader.csproj",
+      "packagesPath": "C:\\Users\\Zekie\\.nuget\\packages\\",
+      "outputPath": "D:\\Dev\\MLClassifierStation\\PluginLoader\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\Zekie\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net5.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net5.0": {
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net5.0": {
+        "dependencies": {
+          "System.ComponentModel.Composition": {
+            "target": "Package",
+            "version": "[5.0.0-preview.6.20305.6, )"
+          },
+          "System.Reflection.Context": {
+            "target": "Package",
+            "version": "[5.0.0-preview.6.20305.6, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100-preview.6.20318.15\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

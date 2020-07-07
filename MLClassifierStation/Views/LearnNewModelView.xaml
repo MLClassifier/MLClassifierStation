@@ -1,0 +1,46 @@
+﻿<UserControl x:Class="MLClassifierStation.Views.LearnNewModelView"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+             xmlns:xctk="http://schemas.xceed.com/wpf/xaml/toolkit"
+             xmlns:i="http://schemas.microsoft.com/expression/2010/interactivity"
+             xmlns:ei="http://schemas.microsoft.com/expression/2010/interactions"
+             xmlns:views="clr-namespace:MLClassifierStation.Views"
+             mc:Ignorable="d"
+             d:DesignHeight="450" d:DesignWidth="800">
+    <Validation.ErrorTemplate>
+        <ControlTemplate>
+            <Label Content="Error in wizard"></Label>
+        </ControlTemplate>
+    </Validation.ErrorTemplate>
+    <Grid>
+        <xctk:Wizard x:Name="wzrdLearnNewModel"
+                     FinishButtonClosesWindow="False" FinishButtonContent="Finish"
+                     CancelButtonClosesWindow="False" HelpButtonVisibility="Hidden"
+                     NextButtonContent="{Binding NextButtonContent}"
+                     CancelButtonContent="{Binding CancelButtonContent}"
+                     CanSelectNextPage="True"
+                     ItemsSource="{Binding WizardPages}" CurrentPage="{Binding CurrentPage, Mode=TwoWay}">
+            <Validation.ErrorTemplate>
+                <ControlTemplate>
+                    <Label Content="Error in wizard"></Label>
+                </ControlTemplate>
+            </Validation.ErrorTemplate>
+            <i:Interaction.Triggers>
+                <i:EventTrigger EventName="Next">
+                    <ei:CallMethodAction TargetObject="{Binding}" MethodName="NextStageMethod" />
+                </i:EventTrigger>
+                <i:EventTrigger EventName="Previous">
+                    <i:InvokeCommandAction Command="{Binding PreviousStage}" />
+                </i:EventTrigger>
+                <i:EventTrigger EventName="Finish">
+                    <i:InvokeCommandAction Command="{Binding Finish}" />
+                </i:EventTrigger>
+                <i:EventTrigger EventName="Cancel">
+                    <i:InvokeCommandAction Command="{Binding Cancel}" />
+                </i:EventTrigger>
+            </i:Interaction.Triggers>
+        </xctk:Wizard>
+    </Grid>
+</UserControl>

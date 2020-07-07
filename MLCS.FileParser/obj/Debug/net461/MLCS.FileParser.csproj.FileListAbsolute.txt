@@ -1,0 +1,16 @@
+D:\Dev\MLClassifierStation\MLCS.FileParser\bin\Debug\net461\MLCS.FileParser.dll
+D:\Dev\MLClassifierStation\MLCS.FileParser\bin\Debug\net461\MLCS.FileParser.pdb
+D:\Dev\MLClassifierStation\MLCS.FileParser\bin\Debug\net461\System.ValueTuple.dll
+D:\Dev\MLClassifierStation\MLCS.FileParser\bin\Debug\net461\MLCS.Common.dll
+D:\Dev\MLClassifierStation\MLCS.FileParser\bin\Debug\net461\MLCS.Entities.dll
+D:\Dev\MLClassifierStation\MLCS.FileParser\bin\Debug\net461\TinyCsvParser.dll
+D:\Dev\MLClassifierStation\MLCS.FileParser\bin\Debug\net461\MLCS.Common.pdb
+D:\Dev\MLClassifierStation\MLCS.FileParser\bin\Debug\net461\MLCS.Entities.pdb
+D:\Dev\MLClassifierStation\MLCS.FileParser\bin\Debug\net461\TinyCsvParser.pdb
+D:\Dev\MLClassifierStation\MLCS.FileParser\obj\Debug\net461\MLCS.FileParser.csprojAssemblyReference.cache
+D:\Dev\MLClassifierStation\MLCS.FileParser\obj\Debug\net461\MLCS.FileParser.AssemblyInfoInputs.cache
+D:\Dev\MLClassifierStation\MLCS.FileParser\obj\Debug\net461\MLCS.FileParser.AssemblyInfo.cs
+D:\Dev\MLClassifierStation\MLCS.FileParser\obj\Debug\net461\MLCS.FileParser.csproj.CoreCompileInputs.cache
+D:\Dev\MLClassifierStation\MLCS.FileParser\obj\Debug\net461\MLCS.FileParser.csproj.CopyComplete
+D:\Dev\MLClassifierStation\MLCS.FileParser\obj\Debug\net461\MLCS.FileParser.dll
+D:\Dev\MLClassifierStation\MLCS.FileParser\obj\Debug\net461\MLCS.FileParser.pdb

@@ -1,0 +1,16 @@
+D:\Dev\MLClassifierStation\MLCS.FileParser\bin\Debug\netcoreapp5.0\MLCS.FileParser.deps.json
+D:\Dev\MLClassifierStation\MLCS.FileParser\bin\Debug\netcoreapp5.0\MLCS.FileParser.dll
+D:\Dev\MLClassifierStation\MLCS.FileParser\bin\Debug\netcoreapp5.0\MLCS.FileParser.pdb
+D:\Dev\MLClassifierStation\MLCS.FileParser\bin\Debug\netcoreapp5.0\MLCS.Common.dll
+D:\Dev\MLClassifierStation\MLCS.FileParser\bin\Debug\netcoreapp5.0\MLCS.Entities.dll
+D:\Dev\MLClassifierStation\MLCS.FileParser\bin\Debug\netcoreapp5.0\TinyCsvParser.dll
+D:\Dev\MLClassifierStation\MLCS.FileParser\bin\Debug\netcoreapp5.0\MLCS.Common.pdb
+D:\Dev\MLClassifierStation\MLCS.FileParser\bin\Debug\netcoreapp5.0\MLCS.Entities.pdb
+D:\Dev\MLClassifierStation\MLCS.FileParser\bin\Debug\netcoreapp5.0\TinyCsvParser.pdb
+D:\Dev\MLClassifierStation\MLCS.FileParser\obj\Debug\netcoreapp5.0\MLCS.FileParser.csprojAssemblyReference.cache
+D:\Dev\MLClassifierStation\MLCS.FileParser\obj\Debug\netcoreapp5.0\MLCS.FileParser.AssemblyInfoInputs.cache
+D:\Dev\MLClassifierStation\MLCS.FileParser\obj\Debug\netcoreapp5.0\MLCS.FileParser.AssemblyInfo.cs
+D:\Dev\MLClassifierStation\MLCS.FileParser\obj\Debug\netcoreapp5.0\MLCS.FileParser.csproj.CoreCompileInputs.cache
+D:\Dev\MLClassifierStation\MLCS.FileParser\obj\Debug\netcoreapp5.0\MLCS.FileParser.csproj.CopyComplete
+D:\Dev\MLClassifierStation\MLCS.FileParser\obj\Debug\netcoreapp5.0\MLCS.FileParser.dll
+D:\Dev\MLClassifierStation\MLCS.FileParser\obj\Debug\netcoreapp5.0\MLCS.FileParser.pdb

@@ -1,0 +1,70 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Dev\\MLClassifierStation\\PluginLoader\\PluginLoader.csproj": {}
+  },
+  "projects": {
+    "D:\\Dev\\MLClassifierStation\\PluginLoader\\PluginLoader.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Dev\\MLClassifierStation\\PluginLoader\\PluginLoader.csproj",
+        "projectName": "PluginLoader",
+        "projectPath": "D:\\Dev\\MLClassifierStation\\PluginLoader\\PluginLoader.csproj",
+        "packagesPath": "C:\\Users\\Zekie\\.nuget\\packages\\",
+        "outputPath": "D:\\Dev\\MLClassifierStation\\PluginLoader\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Zekie\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "dependencies": {
+            "System.ComponentModel.Composition": {
+              "target": "Package",
+              "version": "[5.0.0-preview.6.20305.6, )"
+            },
+            "System.Reflection.Context": {
+              "target": "Package",
+              "version": "[5.0.0-preview.6.20305.6, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100-preview.6.20318.15\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

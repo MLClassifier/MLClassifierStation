@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Btyt/PCEO/iDo6t9b2BpdYqPl5G6HN0eCnFQmn0NhGzSOFpRJhp2pX+AwzqEF9JIZ4fO0q3kDCB8DK9RfPuTzw==",
+  "success": true,
+  "projectFilePath": "D:\\Dev\\MLClassifierStation\\MLCS.FileParser\\MLCS.FileParser.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Zekie\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\Zekie\\.nuget\\packages\\system.valuetuple\\4.5.0\\system.valuetuple.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

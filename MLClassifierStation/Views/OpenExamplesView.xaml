@@ -1,0 +1,30 @@
+﻿<UserControl x:Class="MLClassifierStation.Views.OpenExamplesView"
+            xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+             xmlns:controls="clr-namespace:MLClassifierStation.UserControls"
+             xmlns:md="https://github.com/fantasticfiasco/mvvm-dialogs"
+             md:DialogServiceViews.IsRegistered="True"
+             mc:Ignorable="d"
+             d:DesignHeight="450" d:DesignWidth="800"
+             x:Name="OpenExamples">
+    <UserControl.Resources>
+        <BooleanToVisibilityConverter x:Key="BooleanToVisibilityConverter" />
+    </UserControl.Resources>
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="100"></RowDefinition>
+            <RowDefinition Height="Auto"></RowDefinition>
+        </Grid.RowDefinitions>
+        <controls:FilePickerControl Grid.Row="0" Caption="{Binding ExamplesCaption, ElementName=OpenExamples}" x:Name="fpcExamplesFile"
+                                    FilePath="{Binding ExamplesDataModel.ExamplesFilePath}"
+                                    ButtonTitle="{Binding ExamplesButtonTitle, ElementName=OpenExamples}"
+                                    OpenFileCommand="{Binding OpenExamplesFileCommand}"></controls:FilePickerControl>
+        <controls:InfoControl Grid.Row="1"
+                              InfoTitle="{Binding ExamplesInformationCaption, ElementName=OpenExamples}"
+                              InfoContent="{Binding ExamplesDataModel.ExamplesInformation}"
+                              Visibility="{Binding ExamplesDataModel.IsExamplesInfoVisible,
+                                  Converter={StaticResource BooleanToVisibilityConverter}}"></controls:InfoControl>
+    </Grid>
+</UserControl>

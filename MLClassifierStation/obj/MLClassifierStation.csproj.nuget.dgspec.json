@@ -1,0 +1,673 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Dev\\MLClassifierStation\\MLClassifierStation\\MLClassifierStation.csproj": {}
+  },
+  "projects": {
+    "D:\\Dev\\MLClassifierStation\\MLClassifierStation\\MLClassifierStation.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Dev\\MLClassifierStation\\MLClassifierStation\\MLClassifierStation.csproj",
+        "projectName": "MLClassifierStation",
+        "projectPath": "D:\\Dev\\MLClassifierStation\\MLClassifierStation\\MLClassifierStation.csproj",
+        "packagesPath": "C:\\Users\\Zekie\\.nuget\\packages\\",
+        "outputPath": "D:\\Dev\\MLClassifierStation\\MLClassifierStation\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Zekie\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "projectReferences": {
+              "D:\\Dev\\MLClassifierStation\\MLCS.Common\\MLCS.Common.csproj": {
+                "projectPath": "D:\\Dev\\MLClassifierStation\\MLCS.Common\\MLCS.Common.csproj"
+              },
+              "D:\\Dev\\MLClassifierStation\\MLCS.Entities\\MLCS.Entities.csproj": {
+                "projectPath": "D:\\Dev\\MLClassifierStation\\MLCS.Entities\\MLCS.Entities.csproj"
+              },
+              "D:\\Dev\\MLClassifierStation\\MLCS.FileParser\\MLCS.FileParser.csproj": {
+                "projectPath": "D:\\Dev\\MLClassifierStation\\MLCS.FileParser\\MLCS.FileParser.csproj"
+              },
+              "D:\\Dev\\MLClassifierStation\\MLCS.LearningAlgorithmPlugins\\MLCS.LearningAlgorithmPlugins.csproj": {
+                "projectPath": "D:\\Dev\\MLClassifierStation\\MLCS.LearningAlgorithmPlugins\\MLCS.LearningAlgorithmPlugins.csproj"
+              },
+              "D:\\Dev\\MLClassifierStation\\MLCS.LearningStatistics\\MLCS.LearningStatistics.csproj": {
+                "projectPath": "D:\\Dev\\MLClassifierStation\\MLCS.LearningStatistics\\MLCS.LearningStatistics.csproj"
+              },
+              "D:\\Dev\\MLClassifierStation\\MLCS.Services\\MLCS.Services.csproj": {
+                "projectPath": "D:\\Dev\\MLClassifierStation\\MLCS.Services\\MLCS.Services.csproj"
+              },
+              "D:\\Dev\\MLClassifierStation\\PluginLoader\\PluginLoader.csproj": {
+                "projectPath": "D:\\Dev\\MLClassifierStation\\PluginLoader\\PluginLoader.csproj"
+              },
+              "D:\\Dev\\MLClassifierStation\\TinyCsvParser\\TinyCsvParser.csproj": {
+                "projectPath": "D:\\Dev\\MLClassifierStation\\TinyCsvParser\\TinyCsvParser.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "dependencies": {
+            "ControlzEx": {
+              "target": "Package",
+              "version": "[4.3.1, )"
+            },
+            "Extended.Wpf.Toolkit": {
+              "target": "Package",
+              "version": "[4.0.1, )"
+            },
+            "MahApps.Metro": {
+              "target": "Package",
+              "version": "[2.1.1, )"
+            },
+            "Microsoft.CSharp": {
+              "target": "Package",
+              "version": "[4.7.0, )"
+            },
+            "Microsoft.Xaml.Behaviors.Wpf": {
+              "target": "Package",
+              "version": "[1.1.19, )"
+            },
+            "MvvmDialogs": {
+              "target": "Package",
+              "version": "[7.1.0, )"
+            },
+            "Nito.Disposables": {
+              "target": "Package",
+              "version": "[2.2.0-pre01, )"
+            },
+            "Nito.Mvvm.Async": {
+              "target": "Package",
+              "version": "[1.0.0-pre-03, )"
+            },
+            "Nito.Mvvm.Core": {
+              "target": "Package",
+              "version": "[1.2.2, )"
+            },
+            "SimpleInjector": {
+              "target": "Package",
+              "version": "[5.0.2, )"
+            },
+            "System.Buffers": {
+              "target": "Package",
+              "version": "[4.5.1, )"
+            },
+            "System.Collections.Immutable": {
+              "target": "Package",
+              "version": "[5.0.0-preview.6.20305.6, )"
+            },
+            "System.ComponentModel.Annotations": {
+              "target": "Package",
+              "version": "[5.0.0-preview.6.20305.6, )"
+            },
+            "System.Memory": {
+              "target": "Package",
+              "version": "[4.5.4, )"
+            },
+            "System.Numerics.Vectors": {
+              "target": "Package",
+              "version": "[4.5.0, )"
+            },
+            "System.Runtime.CompilerServices.Unsafe": {
+              "target": "Package",
+              "version": "[5.0.0-preview.6.20305.6, )"
+            },
+            "System.Windows.Interactivity.WPF": {
+              "target": "Package",
+              "version": "[2.0.20525, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WPF": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100-preview.6.20318.15\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Dev\\MLClassifierStation\\MLCS.Common\\MLCS.Common.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Dev\\MLClassifierStation\\MLCS.Common\\MLCS.Common.csproj",
+        "projectName": "MLCS.Common",
+        "projectPath": "D:\\Dev\\MLClassifierStation\\MLCS.Common\\MLCS.Common.csproj",
+        "packagesPath": "C:\\Users\\Zekie\\.nuget\\packages\\",
+        "outputPath": "D:\\Dev\\MLClassifierStation\\MLCS.Common\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Zekie\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100-preview.6.20318.15\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Dev\\MLClassifierStation\\MLCS.Entities\\MLCS.Entities.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Dev\\MLClassifierStation\\MLCS.Entities\\MLCS.Entities.csproj",
+        "projectName": "MLCS.Entities",
+        "projectPath": "D:\\Dev\\MLClassifierStation\\MLCS.Entities\\MLCS.Entities.csproj",
+        "packagesPath": "C:\\Users\\Zekie\\.nuget\\packages\\",
+        "outputPath": "D:\\Dev\\MLClassifierStation\\MLCS.Entities\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Zekie\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "projectReferences": {
+              "D:\\Dev\\MLClassifierStation\\MLCS.Common\\MLCS.Common.csproj": {
+                "projectPath": "D:\\Dev\\MLClassifierStation\\MLCS.Common\\MLCS.Common.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "dependencies": {
+            "System.ValueTuple": {
+              "target": "Package",
+              "version": "[4.5.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100-preview.6.20318.15\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Dev\\MLClassifierStation\\MLCS.FileParser\\MLCS.FileParser.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Dev\\MLClassifierStation\\MLCS.FileParser\\MLCS.FileParser.csproj",
+        "projectName": "MLCS.FileParser",
+        "projectPath": "D:\\Dev\\MLClassifierStation\\MLCS.FileParser\\MLCS.FileParser.csproj",
+        "packagesPath": "C:\\Users\\Zekie\\.nuget\\packages\\",
+        "outputPath": "D:\\Dev\\MLClassifierStation\\MLCS.FileParser\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Zekie\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "projectReferences": {
+              "D:\\Dev\\MLClassifierStation\\MLCS.Common\\MLCS.Common.csproj": {
+                "projectPath": "D:\\Dev\\MLClassifierStation\\MLCS.Common\\MLCS.Common.csproj"
+              },
+              "D:\\Dev\\MLClassifierStation\\MLCS.Entities\\MLCS.Entities.csproj": {
+                "projectPath": "D:\\Dev\\MLClassifierStation\\MLCS.Entities\\MLCS.Entities.csproj"
+              },
+              "D:\\Dev\\MLClassifierStation\\TinyCsvParser\\TinyCsvParser.csproj": {
+                "projectPath": "D:\\Dev\\MLClassifierStation\\TinyCsvParser\\TinyCsvParser.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "dependencies": {
+            "Microsoft.CSharp": {
+              "target": "Package",
+              "version": "[4.7.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100-preview.6.20318.15\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Dev\\MLClassifierStation\\MLCS.LearningAlgorithmPlugins\\MLCS.LearningAlgorithmPlugins.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Dev\\MLClassifierStation\\MLCS.LearningAlgorithmPlugins\\MLCS.LearningAlgorithmPlugins.csproj",
+        "projectName": "MLCS.LearningAlgorithmPlugins",
+        "projectPath": "D:\\Dev\\MLClassifierStation\\MLCS.LearningAlgorithmPlugins\\MLCS.LearningAlgorithmPlugins.csproj",
+        "packagesPath": "C:\\Users\\Zekie\\.nuget\\packages\\",
+        "outputPath": "D:\\Dev\\MLClassifierStation\\MLCS.LearningAlgorithmPlugins\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Zekie\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "projectReferences": {
+              "D:\\Dev\\MLClassifierStation\\MLCS.Common\\MLCS.Common.csproj": {
+                "projectPath": "D:\\Dev\\MLClassifierStation\\MLCS.Common\\MLCS.Common.csproj"
+              },
+              "D:\\Dev\\MLClassifierStation\\MLCS.Entities\\MLCS.Entities.csproj": {
+                "projectPath": "D:\\Dev\\MLClassifierStation\\MLCS.Entities\\MLCS.Entities.csproj"
+              },
+              "D:\\Dev\\MLClassifierStation\\MLCS.LearningStatistics\\MLCS.LearningStatistics.csproj": {
+                "projectPath": "D:\\Dev\\MLClassifierStation\\MLCS.LearningStatistics\\MLCS.LearningStatistics.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "dependencies": {
+            "System.ValueTuple": {
+              "target": "Package",
+              "version": "[4.5.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100-preview.6.20318.15\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Dev\\MLClassifierStation\\MLCS.LearningStatistics\\MLCS.LearningStatistics.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Dev\\MLClassifierStation\\MLCS.LearningStatistics\\MLCS.LearningStatistics.csproj",
+        "projectName": "MLCS.LearningStatistics",
+        "projectPath": "D:\\Dev\\MLClassifierStation\\MLCS.LearningStatistics\\MLCS.LearningStatistics.csproj",
+        "packagesPath": "C:\\Users\\Zekie\\.nuget\\packages\\",
+        "outputPath": "D:\\Dev\\MLClassifierStation\\MLCS.LearningStatistics\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Zekie\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "projectReferences": {
+              "D:\\Dev\\MLClassifierStation\\MLCS.Common\\MLCS.Common.csproj": {
+                "projectPath": "D:\\Dev\\MLClassifierStation\\MLCS.Common\\MLCS.Common.csproj"
+              },
+              "D:\\Dev\\MLClassifierStation\\MLCS.Entities\\MLCS.Entities.csproj": {
+                "projectPath": "D:\\Dev\\MLClassifierStation\\MLCS.Entities\\MLCS.Entities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "dependencies": {
+            "System.ValueTuple": {
+              "target": "Package",
+              "version": "[4.5.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100-preview.6.20318.15\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Dev\\MLClassifierStation\\MLCS.Services\\MLCS.Services.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Dev\\MLClassifierStation\\MLCS.Services\\MLCS.Services.csproj",
+        "projectName": "MLCS.Services",
+        "projectPath": "D:\\Dev\\MLClassifierStation\\MLCS.Services\\MLCS.Services.csproj",
+        "packagesPath": "C:\\Users\\Zekie\\.nuget\\packages\\",
+        "outputPath": "D:\\Dev\\MLClassifierStation\\MLCS.Services\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Zekie\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "projectReferences": {
+              "D:\\Dev\\MLClassifierStation\\MLCS.Entities\\MLCS.Entities.csproj": {
+                "projectPath": "D:\\Dev\\MLClassifierStation\\MLCS.Entities\\MLCS.Entities.csproj"
+              },
+              "D:\\Dev\\MLClassifierStation\\MLCS.LearningAlgorithmPlugins\\MLCS.LearningAlgorithmPlugins.csproj": {
+                "projectPath": "D:\\Dev\\MLClassifierStation\\MLCS.LearningAlgorithmPlugins\\MLCS.LearningAlgorithmPlugins.csproj"
+              },
+              "D:\\Dev\\MLClassifierStation\\MLCS.LearningStatistics\\MLCS.LearningStatistics.csproj": {
+                "projectPath": "D:\\Dev\\MLClassifierStation\\MLCS.LearningStatistics\\MLCS.LearningStatistics.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "dependencies": {
+            "Microsoft.CSharp": {
+              "target": "Package",
+              "version": "[4.7.0, )"
+            },
+            "System.Data.DataSetExtensions": {
+              "target": "Package",
+              "version": "[4.6.0-preview3.19128.7, )"
+            },
+            "System.Net.Http": {
+              "target": "Package",
+              "version": "[4.3.4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100-preview.6.20318.15\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Dev\\MLClassifierStation\\PluginLoader\\PluginLoader.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Dev\\MLClassifierStation\\PluginLoader\\PluginLoader.csproj",
+        "projectName": "PluginLoader",
+        "projectPath": "D:\\Dev\\MLClassifierStation\\PluginLoader\\PluginLoader.csproj",
+        "packagesPath": "C:\\Users\\Zekie\\.nuget\\packages\\",
+        "outputPath": "D:\\Dev\\MLClassifierStation\\PluginLoader\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Zekie\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "dependencies": {
+            "System.ComponentModel.Composition": {
+              "target": "Package",
+              "version": "[5.0.0-preview.6.20305.6, )"
+            },
+            "System.Reflection.Context": {
+              "target": "Package",
+              "version": "[5.0.0-preview.6.20305.6, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100-preview.6.20318.15\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Dev\\MLClassifierStation\\TinyCsvParser\\TinyCsvParser.csproj": {
+      "version": "2.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Dev\\MLClassifierStation\\TinyCsvParser\\TinyCsvParser.csproj",
+        "projectName": "TinyCsvParser",
+        "projectPath": "D:\\Dev\\MLClassifierStation\\TinyCsvParser\\TinyCsvParser.csproj",
+        "packagesPath": "C:\\Users\\Zekie\\.nuget\\packages\\",
+        "outputPath": "D:\\Dev\\MLClassifierStation\\TinyCsvParser\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Zekie\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "projectReferences": {
+              "D:\\Dev\\MLClassifierStation\\MLCS.Entities\\MLCS.Entities.csproj": {
+                "projectPath": "D:\\Dev\\MLClassifierStation\\MLCS.Entities\\MLCS.Entities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "dependencies": {
+            "Microsoft.CSharp": {
+              "target": "Package",
+              "version": "[4.7.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100-preview.6.20318.15\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

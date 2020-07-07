@@ -1,0 +1,16 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFramework>netcoreapp5.0</TargetFramework>
+    <AssemblyTitle>MLCS.LearningStatistics</AssemblyTitle>
+    <Product>MLCS.LearningStatistics</Product>
+    <Copyright>Copyright ©  2017</Copyright>
+    <OutputPath>bin\$(Configuration)\</OutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <PackageReference Include="System.ValueTuple" Version="4.5.0" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\MLCS.Common\MLCS.Common.csproj" />
+    <ProjectReference Include="..\MLCS.Entities\MLCS.Entities.csproj" />
+  </ItemGroup>
+</Project>

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "bEtsEPPP+npuGM1ytYGGxzTYPCL7VK4YLEkYBfIBo2u7c5a27ktEWBcii9MDh0eWQ+P84M7PLBRrg0QXDLZjuQ==",
+  "success": true,
+  "projectFilePath": "D:\\Dev\\MLClassifierStation\\MLCS.Entities\\MLCS.Entities.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Zekie\\.nuget\\packages\\system.valuetuple\\4.5.0\\system.valuetuple.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

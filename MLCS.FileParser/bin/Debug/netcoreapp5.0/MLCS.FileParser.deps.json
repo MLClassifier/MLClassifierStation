@@ -1,0 +1,83 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "MLCS.FileParser/1.0.0": {
+        "dependencies": {
+          "MLCS.Common": "1.0.0",
+          "MLCS.Entities": "1.0.0",
+          "Microsoft.CSharp": "4.7.0",
+          "TinyCsvParser": "2.0.0"
+        },
+        "runtime": {
+          "MLCS.FileParser.dll": {}
+        }
+      },
+      "Microsoft.CSharp/4.7.0": {},
+      "System.ValueTuple/4.5.0": {},
+      "MLCS.Common/1.0.0": {
+        "runtime": {
+          "MLCS.Common.dll": {}
+        }
+      },
+      "MLCS.Entities/1.0.0": {
+        "dependencies": {
+          "MLCS.Common": "1.0.0",
+          "System.ValueTuple": "4.5.0"
+        },
+        "runtime": {
+          "MLCS.Entities.dll": {}
+        }
+      },
+      "TinyCsvParser/2.0.0": {
+        "dependencies": {
+          "MLCS.Entities": "1.0.0",
+          "Microsoft.CSharp": "4.7.0"
+        },
+        "runtime": {
+          "TinyCsvParser.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MLCS.FileParser/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Microsoft.CSharp/4.7.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-pTj+D3uJWyN3My70i2Hqo+OXixq3Os2D1nJ2x92FFo6sk8fYS1m1WLNTs0Dc1uPaViH0YvEEwvzddQ7y4rhXmA==",
+      "path": "microsoft.csharp/4.7.0",
+      "hashPath": "microsoft.csharp.4.7.0.nupkg.sha512"
+    },
+    "System.ValueTuple/4.5.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-okurQJO6NRE/apDIP23ajJ0hpiNmJ+f0BwOlB/cSqTLQlw5upkf+5+96+iG2Jw40G1fCVCyPz/FhIABUjMR+RQ==",
+      "path": "system.valuetuple/4.5.0",
+      "hashPath": "system.valuetuple.4.5.0.nupkg.sha512"
+    },
+    "MLCS.Common/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MLCS.Entities/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "TinyCsvParser/2.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

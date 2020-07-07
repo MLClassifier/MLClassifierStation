@@ -1,0 +1,14 @@
+D:\Dev\MLClassifierStation\TinyCsvParser\bin\Debug\net461\TinyCsvParser.dll
+D:\Dev\MLClassifierStation\TinyCsvParser\bin\Debug\net461\TinyCsvParser.pdb
+D:\Dev\MLClassifierStation\TinyCsvParser\bin\Debug\net461\MLCS.Common.dll
+D:\Dev\MLClassifierStation\TinyCsvParser\bin\Debug\net461\MLCS.Entities.dll
+D:\Dev\MLClassifierStation\TinyCsvParser\bin\Debug\net461\System.ValueTuple.dll
+D:\Dev\MLClassifierStation\TinyCsvParser\bin\Debug\net461\MLCS.Entities.pdb
+D:\Dev\MLClassifierStation\TinyCsvParser\bin\Debug\net461\MLCS.Common.pdb
+D:\Dev\MLClassifierStation\TinyCsvParser\obj\Debug\net461\TinyCsvParser.csprojAssemblyReference.cache
+D:\Dev\MLClassifierStation\TinyCsvParser\obj\Debug\net461\TinyCsvParser.csproj.CoreCompileInputs.cache
+D:\Dev\MLClassifierStation\TinyCsvParser\obj\Debug\net461\TinyCsvParser.AssemblyInfoInputs.cache
+D:\Dev\MLClassifierStation\TinyCsvParser\obj\Debug\net461\TinyCsvParser.AssemblyInfo.cs
+D:\Dev\MLClassifierStation\TinyCsvParser\obj\Debug\net461\TinyCsvParser.csproj.CopyComplete
+D:\Dev\MLClassifierStation\TinyCsvParser\obj\Debug\net461\TinyCsvParser.dll
+D:\Dev\MLClassifierStation\TinyCsvParser\obj\Debug\net461\TinyCsvParser.pdb

@@ -1,0 +1,4 @@
+frame: str black,red,blue,yellow,white
+background: str grey,red,blue,yellow,white
+object: str red,blue,yellow,white
+!harmony: yes,no

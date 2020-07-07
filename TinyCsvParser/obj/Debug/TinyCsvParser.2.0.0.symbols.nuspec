@@ -1,0 +1,93 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>TinyCsvParser</id>
+    <version>2.0.0</version>
+    <authors>Philipp Wagner</authors>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <licenseUrl>https://opensource.org/licenses/MIT</licenseUrl>
+    <projectUrl>https://github.com/bytefish/TinyCsvParser</projectUrl>
+    <description>An easy to use and high-performance library for CSV parsing.</description>
+    <copyright>Copyright © 2017 Philipp Wagner</copyright>
+    <tags>csv, parser, csvparser</tags>
+    <repository type="git" url="git://github.com/bytefish/TinyCsvParser" />
+    <dependencies>
+      <group targetFramework=".NETCoreApp5.0">
+        <dependency id="MLCS.Entities" version="1.0.0" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.CSharp" version="4.7.0" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="D:\Dev\MLClassifierStation\TinyCsvParser\bin\Debug\netcoreapp5.0\TinyCsvParser.pdb" target="lib\net5.0\TinyCsvParser.pdb" />
+    <file src="D:\Dev\MLClassifierStation\TinyCsvParser\bin\Debug\netcoreapp5.0\TinyCsvParser.dll" target="lib\net5.0\TinyCsvParser.dll" />
+    <file src="D:\Dev\MLClassifierStation\TinyCsvParser\CsvParser.cs" target="src\TinyCsvParser\CsvParser.cs" />
+    <file src="D:\Dev\MLClassifierStation\TinyCsvParser\CsvParserExtensions.cs" target="src\TinyCsvParser\CsvParserExtensions.cs" />
+    <file src="D:\Dev\MLClassifierStation\TinyCsvParser\CsvParserOptions.cs" target="src\TinyCsvParser\CsvParserOptions.cs" />
+    <file src="D:\Dev\MLClassifierStation\TinyCsvParser\CsvReaderOptions.cs" target="src\TinyCsvParser\CsvReaderOptions.cs" />
+    <file src="D:\Dev\MLClassifierStation\TinyCsvParser\Exceptions\CsvTypeConverterAlreadyRegisteredException.cs" target="src\TinyCsvParser\Exceptions\CsvTypeConverterAlreadyRegisteredException.cs" />
+    <file src="D:\Dev\MLClassifierStation\TinyCsvParser\Exceptions\CsvTypeConverterNotRegisteredException.cs" target="src\TinyCsvParser\Exceptions\CsvTypeConverterNotRegisteredException.cs" />
+    <file src="D:\Dev\MLClassifierStation\TinyCsvParser\ICsvParser.cs" target="src\TinyCsvParser\ICsvParser.cs" />
+    <file src="D:\Dev\MLClassifierStation\TinyCsvParser\Mapping\CsvAttributeMapping.cs" target="src\TinyCsvParser\Mapping\CsvAttributeMapping.cs" />
+    <file src="D:\Dev\MLClassifierStation\TinyCsvParser\Mapping\CsvMapping.cs" target="src\TinyCsvParser\Mapping\CsvMapping.cs" />
+    <file src="D:\Dev\MLClassifierStation\TinyCsvParser\Mapping\CsvMappingError.cs" target="src\TinyCsvParser\Mapping\CsvMappingError.cs" />
+    <file src="D:\Dev\MLClassifierStation\TinyCsvParser\Mapping\CsvMappingFactory.cs" target="src\TinyCsvParser\Mapping\CsvMappingFactory.cs" />
+    <file src="D:\Dev\MLClassifierStation\TinyCsvParser\Mapping\CsvMappingResult.cs" target="src\TinyCsvParser\Mapping\CsvMappingResult.cs" />
+    <file src="D:\Dev\MLClassifierStation\TinyCsvParser\Mapping\CsvPropertyMapping.cs" target="src\TinyCsvParser\Mapping\CsvPropertyMapping.cs" />
+    <file src="D:\Dev\MLClassifierStation\TinyCsvParser\Mapping\ICsvAttributeMapping.cs" target="src\TinyCsvParser\Mapping\ICsvAttributeMapping.cs" />
+    <file src="D:\Dev\MLClassifierStation\TinyCsvParser\Mapping\ICsvPropertyMapping.cs" target="src\TinyCsvParser\Mapping\ICsvPropertyMapping.cs" />
+    <file src="D:\Dev\MLClassifierStation\TinyCsvParser\Model\Row.cs" target="src\TinyCsvParser\Model\Row.cs" />
+    <file src="D:\Dev\MLClassifierStation\TinyCsvParser\Model\TokenizedRow.cs" target="src\TinyCsvParser\Model\TokenizedRow.cs" />
+    <file src="D:\Dev\MLClassifierStation\TinyCsvParser\Reflection\ReflectionUtils.cs" target="src\TinyCsvParser\Reflection\ReflectionUtils.cs" />
+    <file src="D:\Dev\MLClassifierStation\TinyCsvParser\Tokenizer\Decorators\TokenizerProcessingDecorator.cs" target="src\TinyCsvParser\Tokenizer\Decorators\TokenizerProcessingDecorator.cs" />
+    <file src="D:\Dev\MLClassifierStation\TinyCsvParser\Tokenizer\FixedLengthTokenizer.cs" target="src\TinyCsvParser\Tokenizer\FixedLengthTokenizer.cs" />
+    <file src="D:\Dev\MLClassifierStation\TinyCsvParser\Tokenizer\ITokenizer.cs" target="src\TinyCsvParser\Tokenizer\ITokenizer.cs" />
+    <file src="D:\Dev\MLClassifierStation\TinyCsvParser\Tokenizer\QuotedStringTokenizer.cs" target="src\TinyCsvParser\Tokenizer\QuotedStringTokenizer.cs" />
+    <file src="D:\Dev\MLClassifierStation\TinyCsvParser\Tokenizer\RegularExpressions\RegularExpressionTokenizer.cs" target="src\TinyCsvParser\Tokenizer\RegularExpressions\RegularExpressionTokenizer.cs" />
+    <file src="D:\Dev\MLClassifierStation\TinyCsvParser\Tokenizer\RFC4180\Options.cs" target="src\TinyCsvParser\Tokenizer\RFC4180\Options.cs" />
+    <file src="D:\Dev\MLClassifierStation\TinyCsvParser\Tokenizer\RFC4180\Reader.cs" target="src\TinyCsvParser\Tokenizer\RFC4180\Reader.cs" />
+    <file src="D:\Dev\MLClassifierStation\TinyCsvParser\Tokenizer\RFC4180\Rfc4180Tokenizer.cs" target="src\TinyCsvParser\Tokenizer\RFC4180\Rfc4180Tokenizer.cs" />
+    <file src="D:\Dev\MLClassifierStation\TinyCsvParser\Tokenizer\RFC4180\StringReaderExtensions.cs" target="src\TinyCsvParser\Tokenizer\RFC4180\StringReaderExtensions.cs" />
+    <file src="D:\Dev\MLClassifierStation\TinyCsvParser\Tokenizer\StringSplitTokenizer.cs" target="src\TinyCsvParser\Tokenizer\StringSplitTokenizer.cs" />
+    <file src="D:\Dev\MLClassifierStation\TinyCsvParser\TypeConverter\BaseConverter.cs" target="src\TinyCsvParser\TypeConverter\BaseConverter.cs" />
+    <file src="D:\Dev\MLClassifierStation\TinyCsvParser\TypeConverter\BoolConverter.cs" target="src\TinyCsvParser\TypeConverter\BoolConverter.cs" />
+    <file src="D:\Dev\MLClassifierStation\TinyCsvParser\TypeConverter\ByteConverter.cs" target="src\TinyCsvParser\TypeConverter\ByteConverter.cs" />
+    <file src="D:\Dev\MLClassifierStation\TinyCsvParser\TypeConverter\DateTimeConverter.cs" target="src\TinyCsvParser\TypeConverter\DateTimeConverter.cs" />
+    <file src="D:\Dev\MLClassifierStation\TinyCsvParser\TypeConverter\DecimalConverter.cs" target="src\TinyCsvParser\TypeConverter\DecimalConverter.cs" />
+    <file src="D:\Dev\MLClassifierStation\TinyCsvParser\TypeConverter\DoubleConverter.cs" target="src\TinyCsvParser\TypeConverter\DoubleConverter.cs" />
+    <file src="D:\Dev\MLClassifierStation\TinyCsvParser\TypeConverter\EnumConverter.cs" target="src\TinyCsvParser\TypeConverter\EnumConverter.cs" />
+    <file src="D:\Dev\MLClassifierStation\TinyCsvParser\TypeConverter\GuidConverter.cs" target="src\TinyCsvParser\TypeConverter\GuidConverter.cs" />
+    <file src="D:\Dev\MLClassifierStation\TinyCsvParser\TypeConverter\Int16Converter.cs" target="src\TinyCsvParser\TypeConverter\Int16Converter.cs" />
+    <file src="D:\Dev\MLClassifierStation\TinyCsvParser\TypeConverter\Int32Converter.cs" target="src\TinyCsvParser\TypeConverter\Int32Converter.cs" />
+    <file src="D:\Dev\MLClassifierStation\TinyCsvParser\TypeConverter\Int64Converter.cs" target="src\TinyCsvParser\TypeConverter\Int64Converter.cs" />
+    <file src="D:\Dev\MLClassifierStation\TinyCsvParser\TypeConverter\ITypeConverter.cs" target="src\TinyCsvParser\TypeConverter\ITypeConverter.cs" />
+    <file src="D:\Dev\MLClassifierStation\TinyCsvParser\TypeConverter\ITypeConverterProvider.cs" target="src\TinyCsvParser\TypeConverter\ITypeConverterProvider.cs" />
+    <file src="D:\Dev\MLClassifierStation\TinyCsvParser\TypeConverter\NonNullableConverter.cs" target="src\TinyCsvParser\TypeConverter\NonNullableConverter.cs" />
+    <file src="D:\Dev\MLClassifierStation\TinyCsvParser\TypeConverter\NullableBoolConverter.cs" target="src\TinyCsvParser\TypeConverter\NullableBoolConverter.cs" />
+    <file src="D:\Dev\MLClassifierStation\TinyCsvParser\TypeConverter\NullableByteConverter.cs" target="src\TinyCsvParser\TypeConverter\NullableByteConverter.cs" />
+    <file src="D:\Dev\MLClassifierStation\TinyCsvParser\TypeConverter\NullableConverter.cs" target="src\TinyCsvParser\TypeConverter\NullableConverter.cs" />
+    <file src="D:\Dev\MLClassifierStation\TinyCsvParser\TypeConverter\NullableDateTimeConverter.cs" target="src\TinyCsvParser\TypeConverter\NullableDateTimeConverter.cs" />
+    <file src="D:\Dev\MLClassifierStation\TinyCsvParser\TypeConverter\NullableDecimalConverter.cs" target="src\TinyCsvParser\TypeConverter\NullableDecimalConverter.cs" />
+    <file src="D:\Dev\MLClassifierStation\TinyCsvParser\TypeConverter\NullableDoubleConverter.cs" target="src\TinyCsvParser\TypeConverter\NullableDoubleConverter.cs" />
+    <file src="D:\Dev\MLClassifierStation\TinyCsvParser\TypeConverter\NullableGuidConverter.cs" target="src\TinyCsvParser\TypeConverter\NullableGuidConverter.cs" />
+    <file src="D:\Dev\MLClassifierStation\TinyCsvParser\TypeConverter\NullableInnerConverter.cs" target="src\TinyCsvParser\TypeConverter\NullableInnerConverter.cs" />
+    <file src="D:\Dev\MLClassifierStation\TinyCsvParser\TypeConverter\NullableInt16Converter.cs" target="src\TinyCsvParser\TypeConverter\NullableInt16Converter.cs" />
+    <file src="D:\Dev\MLClassifierStation\TinyCsvParser\TypeConverter\NullableInt32Converter.cs" target="src\TinyCsvParser\TypeConverter\NullableInt32Converter.cs" />
+    <file src="D:\Dev\MLClassifierStation\TinyCsvParser\TypeConverter\NullableInt64Converter.cs" target="src\TinyCsvParser\TypeConverter\NullableInt64Converter.cs" />
+    <file src="D:\Dev\MLClassifierStation\TinyCsvParser\TypeConverter\NullableSByteConverter.cs" target="src\TinyCsvParser\TypeConverter\NullableSByteConverter.cs" />
+    <file src="D:\Dev\MLClassifierStation\TinyCsvParser\TypeConverter\NullableSingleConverter.cs" target="src\TinyCsvParser\TypeConverter\NullableSingleConverter.cs" />
+    <file src="D:\Dev\MLClassifierStation\TinyCsvParser\TypeConverter\NullableTimeSpanConverter.cs" target="src\TinyCsvParser\TypeConverter\NullableTimeSpanConverter.cs" />
+    <file src="D:\Dev\MLClassifierStation\TinyCsvParser\TypeConverter\NullableUInt16Converter.cs" target="src\TinyCsvParser\TypeConverter\NullableUInt16Converter.cs" />
+    <file src="D:\Dev\MLClassifierStation\TinyCsvParser\TypeConverter\NullableUInt32Converter.cs" target="src\TinyCsvParser\TypeConverter\NullableUInt32Converter.cs" />
+    <file src="D:\Dev\MLClassifierStation\TinyCsvParser\TypeConverter\NullableUInt64Converter.cs" target="src\TinyCsvParser\TypeConverter\NullableUInt64Converter.cs" />
+    <file src="D:\Dev\MLClassifierStation\TinyCsvParser\TypeConverter\SByteConverter.cs" target="src\TinyCsvParser\TypeConverter\SByteConverter.cs" />
+    <file src="D:\Dev\MLClassifierStation\TinyCsvParser\TypeConverter\SingleConverter.cs" target="src\TinyCsvParser\TypeConverter\SingleConverter.cs" />
+    <file src="D:\Dev\MLClassifierStation\TinyCsvParser\TypeConverter\StringConverter.cs" target="src\TinyCsvParser\TypeConverter\StringConverter.cs" />
+    <file src="D:\Dev\MLClassifierStation\TinyCsvParser\TypeConverter\TimeSpanConverter.cs" target="src\TinyCsvParser\TypeConverter\TimeSpanConverter.cs" />
+    <file src="D:\Dev\MLClassifierStation\TinyCsvParser\TypeConverter\TypeConverterProvider.cs" target="src\TinyCsvParser\TypeConverter\TypeConverterProvider.cs" />
+    <file src="D:\Dev\MLClassifierStation\TinyCsvParser\TypeConverter\UInt16Converter.cs" target="src\TinyCsvParser\TypeConverter\UInt16Converter.cs" />
+    <file src="D:\Dev\MLClassifierStation\TinyCsvParser\TypeConverter\UInt32Converter.cs" target="src\TinyCsvParser\TypeConverter\UInt32Converter.cs" />
+    <file src="D:\Dev\MLClassifierStation\TinyCsvParser\TypeConverter\UInt64Converter.cs" target="src\TinyCsvParser\TypeConverter\UInt64Converter.cs" />
+    <file src="D:\Dev\MLClassifierStation\TinyCsvParser\TinyCsvParser.csproj" target="src\TinyCsvParser\TinyCsvParser.csproj" />
+  </files>
+</package>

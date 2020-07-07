@@ -1,0 +1,9 @@
+D:\Dev\MLClassifierStation\PluginLoader\bin\Debug\netcoreapp5.0\PluginLoader.deps.json
+D:\Dev\MLClassifierStation\PluginLoader\bin\Debug\netcoreapp5.0\PluginLoader.dll
+D:\Dev\MLClassifierStation\PluginLoader\bin\Debug\netcoreapp5.0\PluginLoader.pdb
+D:\Dev\MLClassifierStation\PluginLoader\obj\Debug\netcoreapp5.0\PluginLoader.AssemblyInfoInputs.cache
+D:\Dev\MLClassifierStation\PluginLoader\obj\Debug\netcoreapp5.0\PluginLoader.AssemblyInfo.cs
+D:\Dev\MLClassifierStation\PluginLoader\obj\Debug\netcoreapp5.0\PluginLoader.csproj.CoreCompileInputs.cache
+D:\Dev\MLClassifierStation\PluginLoader\obj\Debug\netcoreapp5.0\PluginLoader.dll
+D:\Dev\MLClassifierStation\PluginLoader\obj\Debug\netcoreapp5.0\PluginLoader.pdb
+D:\Dev\MLClassifierStation\PluginLoader\obj\Debug\netcoreapp5.0\PluginLoader.csprojAssemblyReference.cache

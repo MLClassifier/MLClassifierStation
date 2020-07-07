@@ -1,0 +1,11 @@
+D:\Dev\MLClassifierStation\MLCS.Entities\bin\Debug\MLCS.Entities.dll
+D:\Dev\MLClassifierStation\MLCS.Entities\bin\Debug\MLCS.Entities.pdb
+D:\Dev\MLClassifierStation\MLCS.Entities\bin\Debug\MLCS.Common.dll
+D:\Dev\MLClassifierStation\MLCS.Entities\bin\Debug\System.ValueTuple.dll
+D:\Dev\MLClassifierStation\MLCS.Entities\bin\Debug\MLCS.Common.pdb
+D:\Dev\MLClassifierStation\MLCS.Entities\bin\Debug\System.ValueTuple.xml
+D:\Dev\MLClassifierStation\MLCS.Entities\obj\Debug\MLCS.Entities.csprojAssemblyReference.cache
+D:\Dev\MLClassifierStation\MLCS.Entities\obj\Debug\MLCS.Entities.csproj.CoreCompileInputs.cache
+D:\Dev\MLClassifierStation\MLCS.Entities\obj\Debug\MLCS.Entities.csproj.CopyComplete
+D:\Dev\MLClassifierStation\MLCS.Entities\obj\Debug\MLCS.Entities.dll
+D:\Dev\MLClassifierStation\MLCS.Entities\obj\Debug\MLCS.Entities.pdb

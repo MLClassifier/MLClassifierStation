@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "EORSEhNKL29Ok9z80s23ywPPfNaBbvcRxg7db/Qk9VIGJUQMlRYfl3QXqWKbtyv5lSHHihX9+HbPNSZ5xW5Xng==",
+  "success": true,
+  "projectFilePath": "D:\\Dev\\MLClassifierStation\\TinyCsvParser\\TinyCsvParser.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Zekie\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\Zekie\\.nuget\\packages\\system.valuetuple\\4.5.0\\system.valuetuple.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

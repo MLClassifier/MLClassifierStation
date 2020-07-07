@@ -1,0 +1,5 @@
+outlook: str sunny,overcast,rainy
+temperature: str hot,mild,cool
+humidity: str high,normal
+windy: str TRUE,FALSE
+!play: yes,no

@@ -1,0 +1,5 @@
+Sam,Zakuska,Petuk,Evtina,true
+Rubin,Obqd,Petuk,Skapa,false
+Sam,Obqd,Subota,Evtina,true
+Sara,Zakuska,Nedelq,Evtina,false
+Sam,Zakuska,Nedelq,Skapa,false

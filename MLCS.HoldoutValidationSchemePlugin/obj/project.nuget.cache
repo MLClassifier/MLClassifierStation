@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "j+0K3Q0CtQMBrsfzu+FoIB1g8Aupjd9jEByoaCKOBMh/Zs9H0j2IYXDCR12Hp8dlMRRR6V5FClIFAPiQw78aDQ==",
+  "success": true,
+  "projectFilePath": "D:\\Dev\\MLClassifierStation\\MLCS.HoldoutValidationSchemePlugin\\MLCS.HoldoutValidationSchemePlugin.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Zekie\\.nuget\\packages\\system.componentmodel.composition\\5.0.0-preview.6.20305.6\\system.componentmodel.composition.5.0.0-preview.6.20305.6.nupkg.sha512",
+    "C:\\Users\\Zekie\\.nuget\\packages\\system.valuetuple\\4.5.0\\system.valuetuple.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,16 @@
+D:\Dev\MLClassifierStation\MLCS.LearningAlgorithmPlugins\bin\Debug\netcoreapp5.0\MLCS.LearningAlgorithmPlugins.deps.json
+D:\Dev\MLClassifierStation\MLCS.LearningAlgorithmPlugins\bin\Debug\netcoreapp5.0\MLCS.LearningAlgorithmPlugins.dll
+D:\Dev\MLClassifierStation\MLCS.LearningAlgorithmPlugins\bin\Debug\netcoreapp5.0\MLCS.LearningAlgorithmPlugins.pdb
+D:\Dev\MLClassifierStation\MLCS.LearningAlgorithmPlugins\bin\Debug\netcoreapp5.0\MLCS.Common.dll
+D:\Dev\MLClassifierStation\MLCS.LearningAlgorithmPlugins\bin\Debug\netcoreapp5.0\MLCS.Entities.dll
+D:\Dev\MLClassifierStation\MLCS.LearningAlgorithmPlugins\bin\Debug\netcoreapp5.0\MLCS.LearningStatistics.dll
+D:\Dev\MLClassifierStation\MLCS.LearningAlgorithmPlugins\bin\Debug\netcoreapp5.0\MLCS.LearningStatistics.pdb
+D:\Dev\MLClassifierStation\MLCS.LearningAlgorithmPlugins\bin\Debug\netcoreapp5.0\MLCS.Common.pdb
+D:\Dev\MLClassifierStation\MLCS.LearningAlgorithmPlugins\bin\Debug\netcoreapp5.0\MLCS.Entities.pdb
+D:\Dev\MLClassifierStation\MLCS.LearningAlgorithmPlugins\obj\Debug\netcoreapp5.0\MLCS.LearningAlgorithmPlugins.csprojAssemblyReference.cache
+D:\Dev\MLClassifierStation\MLCS.LearningAlgorithmPlugins\obj\Debug\netcoreapp5.0\MLCS.LearningAlgorithmPlugins.AssemblyInfoInputs.cache
+D:\Dev\MLClassifierStation\MLCS.LearningAlgorithmPlugins\obj\Debug\netcoreapp5.0\MLCS.LearningAlgorithmPlugins.AssemblyInfo.cs
+D:\Dev\MLClassifierStation\MLCS.LearningAlgorithmPlugins\obj\Debug\netcoreapp5.0\MLCS.LearningAlgorithmPlugins.csproj.CoreCompileInputs.cache
+D:\Dev\MLClassifierStation\MLCS.LearningAlgorithmPlugins\obj\Debug\netcoreapp5.0\MLCS.LearningAlgorithmPlugins.csproj.CopyComplete
+D:\Dev\MLClassifierStation\MLCS.LearningAlgorithmPlugins\obj\Debug\netcoreapp5.0\MLCS.LearningAlgorithmPlugins.dll
+D:\Dev\MLClassifierStation\MLCS.LearningAlgorithmPlugins\obj\Debug\netcoreapp5.0\MLCS.LearningAlgorithmPlugins.pdb

@@ -1,0 +1,13 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFramework>netcoreapp5.0</TargetFramework>
+    <AssemblyTitle>PluginLoader</AssemblyTitle>
+    <Product>PluginLoader</Product>
+    <Copyright>Copyright ©  2017</Copyright>
+    <OutputPath>bin\$(Configuration)\</OutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <PackageReference Include="System.ComponentModel.Composition" Version="5.0.0-preview.6.20305.6" />
+    <PackageReference Include="System.Reflection.Context" Version="5.0.0-preview.6.20305.6" />
+  </ItemGroup>
+</Project>

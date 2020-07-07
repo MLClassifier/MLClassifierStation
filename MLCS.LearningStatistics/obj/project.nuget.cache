@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "hD6ZZu+Sgl37kbE+/3sz/tH6hzQY7RGc86x+CD7lspt6uIsiDRDutzXM8EB7qYodh8wESjipU3KVjgeV1A4LxA==",
+  "success": true,
+  "projectFilePath": "D:\\Dev\\MLClassifierStation\\MLCS.LearningStatistics\\MLCS.LearningStatistics.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Zekie\\.nuget\\packages\\system.valuetuple\\4.5.0\\system.valuetuple.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

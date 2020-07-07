@@ -1,0 +1,22 @@
+- log
+- test
+- unit test
+
+- pure functions ? command query segregation ?
+
+- statistics factory, model factory, validationresult factory - plugin constructor parameters ???
+- combobox SelectionBoxItem
+
+
+- rename
+- export all files related to validation scheme data set separation and etc.
+- import/export and load model ui
+- classify
+- async
+- more classification algorithms
+- tinycsvparser
+- refactoring
+- code comments
+- github
+- intparameter - extend to or add doubleparameter
+

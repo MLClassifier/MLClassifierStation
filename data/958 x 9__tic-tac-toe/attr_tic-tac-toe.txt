@@ -1,0 +1,13 @@
+-	958 examples * 9 attributes
+-
+-
+top-left-square: str x,o,b
+top-middle-square: str x,o,b
+top-right-square: str x,o,b
+middle-left-square: str x,o,b
+middle-middle-square: str x,o,b
+middle-right-square: str x,o,b
+bottom-left-square: str x,o,b
+bottom-middle-square: str x,o,b
+bottom-right-square: str x,o,b
+!Class: positive,negative

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "RhW0wFG5x7gT//zUCA3DMzcEPfvw+PV88Lc4Equ0gs386QS6EFIPTvogGdJpmEwuAJ9yQt+Dp6bscJ5ICyMsAA==",
+  "success": true,
+  "projectFilePath": "D:\\Dev\\MLClassifierStation\\PluginLoader\\PluginLoader.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Zekie\\.nuget\\packages\\system.componentmodel.composition\\5.0.0-preview.6.20305.6\\system.componentmodel.composition.5.0.0-preview.6.20305.6.nupkg.sha512",
+    "C:\\Users\\Zekie\\.nuget\\packages\\system.reflection.context\\5.0.0-preview.6.20305.6\\system.reflection.context.5.0.0-preview.6.20305.6.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,275 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="Accuracy" xml:space="preserve">
+    <value>Accuracy</value>
+  </data>
+  <data name="AccuracyTooltip" xml:space="preserve">
+    <value>The fraction of all instances that are correctly categorized.
+It is the ratio of the number of correct classifications
+to the total number of correct or incorrect classifications
+ACC=(TP + TN)/(P+N)</value>
+  </data>
+  <data name="BalancedAccuracy" xml:space="preserve">
+    <value>Balanced accuracy</value>
+  </data>
+  <data name="BalancedAccuracyTooltip" xml:space="preserve">
+    <value>BACC = (TP/P + TN/N)/2</value>
+  </data>
+  <data name="CohensKappa" xml:space="preserve">
+    <value>Cohen's kappa</value>
+  </data>
+  <data name="CohensKappaTooltip" xml:space="preserve">
+    <value>The agreement between the actual conditions and the predictions.
+k=(Po - Pe)/(1 - Pe)
+where Po is accuracy and Pe is the hypothetical probability
+of chance agreement, using the observed data to calculate
+the probabilities of each observer randomly seeing each category.
+On complete agreement k=1</value>
+  </data>
+  <data name="CrossValidationScheme" xml:space="preserve">
+    <value>Cross validation</value>
+  </data>
+  <data name="F1Score" xml:space="preserve">
+    <value>F1 Score</value>
+  </data>
+  <data name="F1ScoreTooltip" xml:space="preserve">
+    <value>The measure of a test's accuracy.
+It is the harmonic mean of the precision and recall.
+Best value is 1, worst is 0</value>
+  </data>
+  <data name="Fallout" xml:space="preserve">
+    <value>Fallout (False positive rate)</value>
+  </data>
+  <data name="FalloutTooltip" xml:space="preserve">
+    <value>The ratio of false positives and all negative items.
+FPR = FP / (TN + FP)</value>
+  </data>
+  <data name="FalseDiscoveryRate" xml:space="preserve">
+    <value>False discovery rate</value>
+  </data>
+  <data name="FalseDiscoveryRateTooltip" xml:space="preserve">
+    <value>The ratio of false positives and all items predicted as positive.
+FDR = FP / (FP + TP)</value>
+  </data>
+  <data name="FalseNegativeRate" xml:space="preserve">
+    <value>False negative rate</value>
+  </data>
+  <data name="FalseNegativeRateTooltip" xml:space="preserve">
+    <value>The ratio of false negatives and all positive items.
+FNR = FN / (TP + FN)</value>
+  </data>
+  <data name="FoldsCount" xml:space="preserve">
+    <value>Folds count</value>
+  </data>
+  <data name="HoldoutPercent" xml:space="preserve">
+    <value>Holdout percent</value>
+  </data>
+  <data name="HoldoutValidationScheme" xml:space="preserve">
+    <value>Holdout validation</value>
+  </data>
+  <data name="Informedness" xml:space="preserve">
+    <value>Informedness</value>
+  </data>
+  <data name="InformednessTooltip" xml:space="preserve">
+    <value>Informedness quantifies how informed a predictor is
+for the specified condition and specifies the probability
+that a prediction is informed in relation to the condition
+(versus chance).
+Informedness = sensitivity + specificity - 1</value>
+  </data>
+  <data name="Markedness" xml:space="preserve">
+    <value>Markedness</value>
+  </data>
+  <data name="MarkednessTooltip" xml:space="preserve">
+    <value>Markedness quantifies how marked a condition is
+for the specified predictor, and specifies the probability
+that a condition is marked by the predictor(versus chance).
+Markedness = Precision + Inverse Precision - 1</value>
+  </data>
+  <data name="MatthewsCorrelationCoefficient" xml:space="preserve">
+    <value>Matthew's correlation coefficient</value>
+  </data>
+  <data name="MatthewsCorrelationCoefficientTooltip" xml:space="preserve">
+    <value>It takes into account true and false positives and negatives.
+It is correlation coefficient between the observed
+and predicted binary classifications;
+it returns a value between −1 and +1.
+A coefficient of +1 represents a perfect prediction,
+0 no better than random prediction and −1 indicates
+total disagreement between prediction and observation</value>
+  </data>
+  <data name="NegativePredictiveValue" xml:space="preserve">
+    <value>Negative predictive value</value>
+  </data>
+  <data name="NegativePredictiveValueTooltip" xml:space="preserve">
+    <value>The ratio of true negatives and all items that are predicted negative.
+NPV = TN / (TN + FN)</value>
+  </data>
+  <data name="OptimizedPrecision" xml:space="preserve">
+    <value>Optimized precision</value>
+  </data>
+  <data name="OptimizedPrecisionTooltip" xml:space="preserve">
+    <value>It takes into account accuracy, sensitivity and specificity.
+OP = Acc - |Sp - Sn|/(Sp + Sn)</value>
+  </data>
+  <data name="MLCS.MinimizationLearningAlgorithmPlugin" xml:space="preserve">
+    <value>Minimization learning algorithm</value>
+  </data>
+  <data name="Precision" xml:space="preserve">
+    <value>Precision (Positive predictive value)</value>
+  </data>
+  <data name="PrecisionTooltip" xml:space="preserve">
+    <value>Tha ratio of true positives and all items that are predicted positive.
+P = TP / (TP + FP)</value>
+  </data>
+  <data name="Recall" xml:space="preserve">
+    <value>Recall (True positive rate, Sensitivity)</value>
+  </data>
+  <data name="RecallTooltip" xml:space="preserve">
+    <value>The ratio of true positives and positive items.
+R = TP / (TP + FN)</value>
+  </data>
+  <data name="Specificity" xml:space="preserve">
+    <value>Specificity (True negative rate)</value>
+  </data>
+  <data name="SpecificityTooltip" xml:space="preserve">
+    <value>The ratio of true negatives and negative items.
+Sp = TN / (TN + FP)</value>
+  </data>
+  <data name="TuningFactor" xml:space="preserve">
+    <value>Tuning factor</value>
+  </data>
+  <data name="TuningPercent" xml:space="preserve">
+    <value>Tuning percent</value>
+  </data>
+  <data name="UncertaintyCoefficient" xml:space="preserve">
+    <value>Uncertainty coefficient</value>
+  </data>
+  <data name="UncertaintyCoefficientTooltip" xml:space="preserve">
+    <value>It is a measure of the entropy in a column variable Y
+which a row variable X explains.
+Uncertainty coefficients range from 0 to 1.
+A low entropy means very strong correlation;
+a high entropy implies low correlation and so low uncertainty</value>
+  </data>
+  <data name="RequiredParameter" xml:space="preserve">
+    <value>The parameter is required</value>
+  </data>
+</root>

@@ -1,0 +1,8 @@
+D:\Dev\MLClassifierStation\PluginLoader\bin\Debug\net461\PluginLoader.dll
+D:\Dev\MLClassifierStation\PluginLoader\bin\Debug\net461\PluginLoader.pdb
+D:\Dev\MLClassifierStation\PluginLoader\obj\Debug\net461\PluginLoader.csprojAssemblyReference.cache
+D:\Dev\MLClassifierStation\PluginLoader\obj\Debug\net461\PluginLoader.AssemblyInfoInputs.cache
+D:\Dev\MLClassifierStation\PluginLoader\obj\Debug\net461\PluginLoader.AssemblyInfo.cs
+D:\Dev\MLClassifierStation\PluginLoader\obj\Debug\net461\PluginLoader.csproj.CoreCompileInputs.cache
+D:\Dev\MLClassifierStation\PluginLoader\obj\Debug\net461\PluginLoader.dll
+D:\Dev\MLClassifierStation\PluginLoader\obj\Debug\net461\PluginLoader.pdb

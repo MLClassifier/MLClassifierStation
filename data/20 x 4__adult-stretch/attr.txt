@@ -1,0 +1,5 @@
+Color: str YELLOW,PURPLE
+size: str LARGE,SMALL
+act: str STRETCH,DIP
+age: str ADULT,CHILD
+!inflated: T,F

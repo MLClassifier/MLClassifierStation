@@ -1,0 +1,18 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFramework>netcoreapp5.0</TargetFramework>
+    <AssemblyTitle>MLCS.HoldoutValidationSchemePlugin</AssemblyTitle>
+    <Product>MLCS.HoldoutValidationSchemePlugin</Product>
+    <Copyright>Copyright ©  2017</Copyright>
+    <OutputPath>bin\$(Configuration)\</OutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <PackageReference Include="System.ComponentModel.Composition" Version="5.0.0-preview.6.20305.6" />
+    <PackageReference Include="System.ValueTuple" Version="4.5.0" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\MLCS.LearningAlgorithmPlugins\MLCS.LearningAlgorithmPlugins.csproj" />
+    <ProjectReference Include="..\MLCS.LearningStatistics\MLCS.LearningStatistics.csproj" />
+    <ProjectReference Include="..\MLCS.Entities\MLCS.Entities.csproj" />
+  </ItemGroup>
+</Project>

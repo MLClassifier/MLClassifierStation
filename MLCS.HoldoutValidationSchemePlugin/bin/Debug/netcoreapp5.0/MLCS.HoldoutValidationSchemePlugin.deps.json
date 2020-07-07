@@ -1,0 +1,108 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "MLCS.HoldoutValidationSchemePlugin/1.0.0": {
+        "dependencies": {
+          "MLCS.Entities": "1.0.0",
+          "MLCS.LearningAlgorithmPlugins": "1.0.0",
+          "MLCS.LearningStatistics": "1.0.0",
+          "System.ComponentModel.Composition": "5.0.0-preview.6.20305.6",
+          "System.ValueTuple": "4.5.0"
+        },
+        "runtime": {
+          "MLCS.HoldoutValidationSchemePlugin.dll": {}
+        }
+      },
+      "System.ComponentModel.Composition/5.0.0-preview.6.20305.6": {
+        "runtime": {
+          "lib/netcoreapp2.0/System.ComponentModel.Composition.dll": {
+            "assemblyVersion": "4.0.0.0",
+            "fileVersion": "5.0.20.30506"
+          }
+        }
+      },
+      "System.ValueTuple/4.5.0": {},
+      "MLCS.Common/1.0.0": {
+        "runtime": {
+          "MLCS.Common.dll": {}
+        }
+      },
+      "MLCS.Entities/1.0.0": {
+        "dependencies": {
+          "MLCS.Common": "1.0.0",
+          "System.ValueTuple": "4.5.0"
+        },
+        "runtime": {
+          "MLCS.Entities.dll": {}
+        }
+      },
+      "MLCS.LearningAlgorithmPlugins/1.0.0": {
+        "dependencies": {
+          "MLCS.Common": "1.0.0",
+          "MLCS.Entities": "1.0.0",
+          "MLCS.LearningStatistics": "1.0.0",
+          "System.ValueTuple": "4.5.0"
+        },
+        "runtime": {
+          "MLCS.LearningAlgorithmPlugins.dll": {}
+        }
+      },
+      "MLCS.LearningStatistics/1.0.0": {
+        "dependencies": {
+          "MLCS.Common": "1.0.0",
+          "MLCS.Entities": "1.0.0",
+          "System.ValueTuple": "4.5.0"
+        },
+        "runtime": {
+          "MLCS.LearningStatistics.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MLCS.HoldoutValidationSchemePlugin/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "System.ComponentModel.Composition/5.0.0-preview.6.20305.6": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-lGbcEaaUNDArPln0H6lsPNQQwVvHr+kjJ5g92sx1uA+XNulhzvFNFX0g26jMCZPAdifs0KTa4sBkaqz246PQwQ==",
+      "path": "system.componentmodel.composition/5.0.0-preview.6.20305.6",
+      "hashPath": "system.componentmodel.composition.5.0.0-preview.6.20305.6.nupkg.sha512"
+    },
+    "System.ValueTuple/4.5.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-okurQJO6NRE/apDIP23ajJ0hpiNmJ+f0BwOlB/cSqTLQlw5upkf+5+96+iG2Jw40G1fCVCyPz/FhIABUjMR+RQ==",
+      "path": "system.valuetuple/4.5.0",
+      "hashPath": "system.valuetuple.4.5.0.nupkg.sha512"
+    },
+    "MLCS.Common/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MLCS.Entities/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MLCS.LearningAlgorithmPlugins/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MLCS.LearningStatistics/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

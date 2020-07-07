@@ -1,0 +1,17 @@
+D:\Dev\MLClassifierStation\MLCS.CrossValidationSchemePlugin\bin\Debug\MLCS.CrossValidationSchemePlugin.dll
+D:\Dev\MLClassifierStation\MLCS.CrossValidationSchemePlugin\bin\Debug\MLCS.CrossValidationSchemePlugin.pdb
+D:\Dev\MLClassifierStation\MLCS.CrossValidationSchemePlugin\bin\Debug\MLCS.Entities.dll
+D:\Dev\MLClassifierStation\MLCS.CrossValidationSchemePlugin\bin\Debug\MLCS.LearningAlgorithmPlugins.dll
+D:\Dev\MLClassifierStation\MLCS.CrossValidationSchemePlugin\bin\Debug\MLCS.LearningStatistics.dll
+D:\Dev\MLClassifierStation\MLCS.CrossValidationSchemePlugin\bin\Debug\System.ValueTuple.dll
+D:\Dev\MLClassifierStation\MLCS.CrossValidationSchemePlugin\bin\Debug\MLCS.Common.dll
+D:\Dev\MLClassifierStation\MLCS.CrossValidationSchemePlugin\bin\Debug\MLCS.LearningAlgorithmPlugins.pdb
+D:\Dev\MLClassifierStation\MLCS.CrossValidationSchemePlugin\bin\Debug\MLCS.LearningStatistics.pdb
+D:\Dev\MLClassifierStation\MLCS.CrossValidationSchemePlugin\bin\Debug\MLCS.Entities.pdb
+D:\Dev\MLClassifierStation\MLCS.CrossValidationSchemePlugin\bin\Debug\System.ValueTuple.xml
+D:\Dev\MLClassifierStation\MLCS.CrossValidationSchemePlugin\bin\Debug\MLCS.Common.pdb
+D:\Dev\MLClassifierStation\MLCS.CrossValidationSchemePlugin\obj\Debug\MLCS.CrossValidationSchemePlugin.csprojAssemblyReference.cache
+D:\Dev\MLClassifierStation\MLCS.CrossValidationSchemePlugin\obj\Debug\MLCS.CrossValidationSchemePlugin.csproj.CoreCompileInputs.cache
+D:\Dev\MLClassifierStation\MLCS.CrossValidationSchemePlugin\obj\Debug\MLCS.CrossValidationSchemePlugin.csproj.CopyComplete
+D:\Dev\MLClassifierStation\MLCS.CrossValidationSchemePlugin\obj\Debug\MLCS.CrossValidationSchemePlugin.dll
+D:\Dev\MLClassifierStation\MLCS.CrossValidationSchemePlugin\obj\Debug\MLCS.CrossValidationSchemePlugin.pdb

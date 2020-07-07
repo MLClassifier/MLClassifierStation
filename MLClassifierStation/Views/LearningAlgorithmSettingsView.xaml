@@ -1,0 +1,73 @@
+﻿<UserControl x:Class="MLClassifierStation.Views.LearningAlgorithmSettingsView"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+             xmlns:views="clr-namespace:MLClassifierStation.Views"
+             xmlns:converters="clr-namespace:MLClassifierStation.Converters"
+             mc:Ignorable="d"
+             d:DesignHeight="450" d:DesignWidth="800">
+    <UserControl.Resources>
+        <BooleanToVisibilityConverter x:Key="BooleanToVisibilityConverter" />
+        <converters:TypeNameConverter x:Key="TypeNameConverter"></converters:TypeNameConverter>
+        <converters:LogicalOrConverter x:Key="LogicalOrConverter"></converters:LogicalOrConverter>
+        <converters:TypeNameTooltipConverter x:Key="TypeNameTooltipConverter"></converters:TypeNameTooltipConverter>
+        <DataTemplate x:Key="IntParameterDataTemplate" DataType="x:Type TypeName=vm:IntParameterViewModel">
+            <views:IntParameterView></views:IntParameterView>
+        </DataTemplate>
+    </UserControl.Resources>
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="80"></RowDefinition>
+            <RowDefinition Height="Auto"></RowDefinition>
+        </Grid.RowDefinitions>
+        <ComboBox Grid.Row="0" Width="Auto" MinWidth="280" Height="40" Margin="5"
+                  IsEditable="True" IsReadOnly="True" Focusable="False" Text="-- Select Learning algorithm --"
+                  ItemsSource="{Binding LearningAlgorithmPlugins.Result}"
+                  SelectedItem="{Binding SelectedLearningAlgorithm, Mode=TwoWay, NotifyOnValidationError=True, ValidatesOnNotifyDataErrors=True}"
+                  Visibility="{Binding LearningAlgorithmPlugins.IsSuccessfullyCompleted, Converter={StaticResource BooleanToVisibilityConverter}}">
+            <ComboBox.ItemTemplate>
+                <DataTemplate>
+                    <TextBlock Text="{Binding Converter={StaticResource TypeNameConverter}}" />
+                </DataTemplate>
+            </ComboBox.ItemTemplate>
+        </ComboBox>
+        <Label Grid.Row="0" Content="Loading..." Visibility="{Binding LearningAlgorithmPlugins.IsNotCompleted, Converter={StaticResource BooleanToVisibilityConverter}}" />
+        <Label Grid.Row="0" Content="{Binding LearningAlgorithmPlugins.ErrorMessage}" Background="Red"
+               Visibility="{Binding LearningAlgorithmPlugins.IsFaulted, Converter={StaticResource BooleanToVisibilityConverter}}" />
+
+        <DockPanel Grid.Row="1" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Height="Auto">
+            <DockPanel.Visibility>
+                <MultiBinding Converter="{StaticResource LogicalOrConverter}">
+                    <Binding Path="LearningAlgorithmHasParameters" />
+                    <Binding Path="LearningAlgorithmHasLearningParameters" />
+                </MultiBinding>
+            </DockPanel.Visibility>
+            <GroupBox DockPanel.Dock="Top" Header="Learning algorithm parameters" Margin="5"
+                      Visibility="{Binding LearningAlgorithmHasParameters, Converter={StaticResource BooleanToVisibilityConverter}}">
+                <ItemsControl Margin="5"
+                    ItemsSource="{Binding LearningAlgorithmParameters}"
+                    ItemTemplate="{StaticResource IntParameterDataTemplate}">
+                    <ItemsControl.ItemsPanel>
+                        <ItemsPanelTemplate>
+                            <StackPanel />
+                        </ItemsPanelTemplate>
+                    </ItemsControl.ItemsPanel>
+                </ItemsControl>
+            </GroupBox>
+            <GroupBox DockPanel.Dock="Right" Header="Model selection criteria" Margin="5"
+                      Visibility="{Binding LearningAlgorithmHasLearningParameters, Converter={StaticResource BooleanToVisibilityConverter}}">
+                <ListBox ItemsSource="{Binding Metrics}" SelectedItem="{Binding SelectedMetric, Mode=TwoWay}">
+                    <ListBox.ItemTemplate>
+                        <DataTemplate>
+                            <RadioButton Content="{Binding Converter={StaticResource TypeNameConverter}}" IsHitTestVisible="False"
+                                         ToolTip="{Binding Converter={StaticResource TypeNameTooltipConverter}}"
+                                         IsChecked="{Binding RelativeSource={RelativeSource FindAncestor, AncestorType={x:Type ListBoxItem}}, Path=IsSelected}">
+                            </RadioButton>
+                        </DataTemplate>
+                    </ListBox.ItemTemplate>
+                </ListBox>
+            </GroupBox>
+        </DockPanel>
+    </Grid>
+</UserControl>

@@ -1,0 +1,15 @@
+D:\Dev\MLClassifierStation\MLCS.LearningAlgorithmPlugins\bin\Debug\MLCS.LearningAlgorithmPlugins.dll
+D:\Dev\MLClassifierStation\MLCS.LearningAlgorithmPlugins\bin\Debug\MLCS.LearningAlgorithmPlugins.pdb
+D:\Dev\MLClassifierStation\MLCS.LearningAlgorithmPlugins\bin\Debug\MLCS.Common.dll
+D:\Dev\MLClassifierStation\MLCS.LearningAlgorithmPlugins\bin\Debug\MLCS.Entities.dll
+D:\Dev\MLClassifierStation\MLCS.LearningAlgorithmPlugins\bin\Debug\MLCS.LearningStatistics.dll
+D:\Dev\MLClassifierStation\MLCS.LearningAlgorithmPlugins\bin\Debug\System.ValueTuple.dll
+D:\Dev\MLClassifierStation\MLCS.LearningAlgorithmPlugins\bin\Debug\MLCS.LearningStatistics.pdb
+D:\Dev\MLClassifierStation\MLCS.LearningAlgorithmPlugins\bin\Debug\MLCS.Common.pdb
+D:\Dev\MLClassifierStation\MLCS.LearningAlgorithmPlugins\bin\Debug\MLCS.Entities.pdb
+D:\Dev\MLClassifierStation\MLCS.LearningAlgorithmPlugins\bin\Debug\System.ValueTuple.xml
+D:\Dev\MLClassifierStation\MLCS.LearningAlgorithmPlugins\obj\Debug\MLCS.LearningAlgorithmPlugins.csprojAssemblyReference.cache
+D:\Dev\MLClassifierStation\MLCS.LearningAlgorithmPlugins\obj\Debug\MLCS.LearningAlgorithmPlugins.csproj.CoreCompileInputs.cache
+D:\Dev\MLClassifierStation\MLCS.LearningAlgorithmPlugins\obj\Debug\MLCS.LearningAlgorithmPlugins.csproj.CopyComplete
+D:\Dev\MLClassifierStation\MLCS.LearningAlgorithmPlugins\obj\Debug\MLCS.LearningAlgorithmPlugins.dll
+D:\Dev\MLClassifierStation\MLCS.LearningAlgorithmPlugins\obj\Debug\MLCS.LearningAlgorithmPlugins.pdb

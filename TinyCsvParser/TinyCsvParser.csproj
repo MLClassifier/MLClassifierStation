@@ -1,0 +1,37 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp5.0</TargetFramework>
+    <Authors>Philipp Wagner</Authors>
+    <Company />
+    <Product />
+    <Description>An easy to use and high-performance library for CSV parsing.</Description>
+    <PackageTags>csv, parser, csvparser</PackageTags>
+    <RepositoryUrl>git://github.com/bytefish/TinyCsvParser</RepositoryUrl>
+    <PackageProjectUrl>https://github.com/bytefish/TinyCsvParser</PackageProjectUrl>
+    <PackageLicenseUrl>https://opensource.org/licenses/MIT</PackageLicenseUrl>
+    <Copyright>Copyright © 2017 Philipp Wagner</Copyright>
+    <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
+    <AssemblyVersion>2.0.0.0</AssemblyVersion>
+    <FileVersion>2.0.0.0</FileVersion>
+    <RepositoryType>git</RepositoryType>
+    <Version>2.0.0</Version>
+    <IncludeSource>True</IncludeSource>
+    <IncludeSymbols>True</IncludeSymbols>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Async\**" />
+    <EmbeddedResource Remove="Async\**" />
+    <None Remove="Async\**" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.CSharp" Version="4.7.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\MLCS.Entities\MLCS.Entities.csproj" />
+  </ItemGroup>
+
+</Project>

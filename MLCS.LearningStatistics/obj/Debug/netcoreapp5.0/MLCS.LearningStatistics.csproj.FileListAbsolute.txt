@@ -1,0 +1,14 @@
+D:\Dev\MLClassifierStation\MLCS.LearningStatistics\bin\Debug\netcoreapp5.0\MLCS.LearningStatistics.deps.json
+D:\Dev\MLClassifierStation\MLCS.LearningStatistics\bin\Debug\netcoreapp5.0\MLCS.LearningStatistics.dll
+D:\Dev\MLClassifierStation\MLCS.LearningStatistics\bin\Debug\netcoreapp5.0\MLCS.LearningStatistics.pdb
+D:\Dev\MLClassifierStation\MLCS.LearningStatistics\bin\Debug\netcoreapp5.0\MLCS.Common.dll
+D:\Dev\MLClassifierStation\MLCS.LearningStatistics\bin\Debug\netcoreapp5.0\MLCS.Entities.dll
+D:\Dev\MLClassifierStation\MLCS.LearningStatistics\bin\Debug\netcoreapp5.0\MLCS.Common.pdb
+D:\Dev\MLClassifierStation\MLCS.LearningStatistics\bin\Debug\netcoreapp5.0\MLCS.Entities.pdb
+D:\Dev\MLClassifierStation\MLCS.LearningStatistics\obj\Debug\netcoreapp5.0\MLCS.LearningStatistics.csprojAssemblyReference.cache
+D:\Dev\MLClassifierStation\MLCS.LearningStatistics\obj\Debug\netcoreapp5.0\MLCS.LearningStatistics.AssemblyInfoInputs.cache
+D:\Dev\MLClassifierStation\MLCS.LearningStatistics\obj\Debug\netcoreapp5.0\MLCS.LearningStatistics.AssemblyInfo.cs
+D:\Dev\MLClassifierStation\MLCS.LearningStatistics\obj\Debug\netcoreapp5.0\MLCS.LearningStatistics.csproj.CoreCompileInputs.cache
+D:\Dev\MLClassifierStation\MLCS.LearningStatistics\obj\Debug\netcoreapp5.0\MLCS.LearningStatistics.csproj.CopyComplete
+D:\Dev\MLClassifierStation\MLCS.LearningStatistics\obj\Debug\netcoreapp5.0\MLCS.LearningStatistics.dll
+D:\Dev\MLClassifierStation\MLCS.LearningStatistics\obj\Debug\netcoreapp5.0\MLCS.LearningStatistics.pdb

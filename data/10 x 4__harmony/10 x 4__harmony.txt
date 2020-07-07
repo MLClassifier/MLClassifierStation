@@ -1,0 +1,10 @@
+black,blue,yellow,yes
+red,yellow,yellow,yes
+blue,blue,white,yes
+red,white,white,yes
+yellow,blue,blue,yes
+white,yellow,yellow,no
+black,red,red,no
+red,white,blue,no
+red,grey,white,no
+white,grey,yellow,no

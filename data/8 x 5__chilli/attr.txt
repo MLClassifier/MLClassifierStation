@@ -1,0 +1,6 @@
+-name: str Diana,Jose,Zapata,Charles,Philip,Zara,April,Pablo
+age: str Middle_Aged,Youth,Senior_Citizen
+height: str Average,Tall,Short
+weight: str Light,Average,Heavy
+mexican: str No,Yes
+!chilli: Yes,No

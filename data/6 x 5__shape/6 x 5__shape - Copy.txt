@@ -1,0 +1,6 @@
+Large,Round,Red,1,Wood
+Large,Square,Red,1,Wood
+Large,Round,Green,0,Wood
+Large,Triangle,Blue,0,Metal
+Medium,Square,Red,0,Metal
+Small,Square,Red,0,Plastic

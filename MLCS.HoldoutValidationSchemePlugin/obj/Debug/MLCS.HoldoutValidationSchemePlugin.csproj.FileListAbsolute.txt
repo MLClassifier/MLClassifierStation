@@ -1,0 +1,17 @@
+D:\Dev\MLClassifierStation\MLCS.HoldoutValidationSchemePlugin\bin\Debug\MLCS.HoldoutValidationSchemePlugin.dll
+D:\Dev\MLClassifierStation\MLCS.HoldoutValidationSchemePlugin\bin\Debug\MLCS.HoldoutValidationSchemePlugin.pdb
+D:\Dev\MLClassifierStation\MLCS.HoldoutValidationSchemePlugin\bin\Debug\MLCS.Entities.dll
+D:\Dev\MLClassifierStation\MLCS.HoldoutValidationSchemePlugin\bin\Debug\MLCS.LearningAlgorithmPlugins.dll
+D:\Dev\MLClassifierStation\MLCS.HoldoutValidationSchemePlugin\bin\Debug\MLCS.LearningStatistics.dll
+D:\Dev\MLClassifierStation\MLCS.HoldoutValidationSchemePlugin\bin\Debug\System.ValueTuple.dll
+D:\Dev\MLClassifierStation\MLCS.HoldoutValidationSchemePlugin\bin\Debug\MLCS.Common.dll
+D:\Dev\MLClassifierStation\MLCS.HoldoutValidationSchemePlugin\bin\Debug\MLCS.LearningAlgorithmPlugins.pdb
+D:\Dev\MLClassifierStation\MLCS.HoldoutValidationSchemePlugin\bin\Debug\MLCS.LearningStatistics.pdb
+D:\Dev\MLClassifierStation\MLCS.HoldoutValidationSchemePlugin\bin\Debug\MLCS.Entities.pdb
+D:\Dev\MLClassifierStation\MLCS.HoldoutValidationSchemePlugin\bin\Debug\System.ValueTuple.xml
+D:\Dev\MLClassifierStation\MLCS.HoldoutValidationSchemePlugin\bin\Debug\MLCS.Common.pdb
+D:\Dev\MLClassifierStation\MLCS.HoldoutValidationSchemePlugin\obj\Debug\MLCS.HoldoutValidationSchemePlugin.csprojAssemblyReference.cache
+D:\Dev\MLClassifierStation\MLCS.HoldoutValidationSchemePlugin\obj\Debug\MLCS.HoldoutValidationSchemePlugin.csproj.CoreCompileInputs.cache
+D:\Dev\MLClassifierStation\MLCS.HoldoutValidationSchemePlugin\obj\Debug\MLCS.HoldoutValidationSchemePlugin.csproj.CopyComplete
+D:\Dev\MLClassifierStation\MLCS.HoldoutValidationSchemePlugin\obj\Debug\MLCS.HoldoutValidationSchemePlugin.dll
+D:\Dev\MLClassifierStation\MLCS.HoldoutValidationSchemePlugin\obj\Debug\MLCS.HoldoutValidationSchemePlugin.pdb

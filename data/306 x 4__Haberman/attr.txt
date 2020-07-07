@@ -1,0 +1,4 @@
+Age: int 30 .. 85
+Year: int 50 .. 70
+PosAxilNodes: int 0 .. 30
+!Survived: 1,2

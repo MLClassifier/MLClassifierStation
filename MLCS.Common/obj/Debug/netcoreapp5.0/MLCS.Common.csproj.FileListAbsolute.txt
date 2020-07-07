@@ -1,0 +1,9 @@
+D:\Dev\MLClassifierStation\MLCS.Common\bin\Debug\netcoreapp5.0\MLCS.Common.deps.json
+D:\Dev\MLClassifierStation\MLCS.Common\bin\Debug\netcoreapp5.0\MLCS.Common.dll
+D:\Dev\MLClassifierStation\MLCS.Common\bin\Debug\netcoreapp5.0\MLCS.Common.pdb
+D:\Dev\MLClassifierStation\MLCS.Common\obj\Debug\netcoreapp5.0\MLCS.Common.AssemblyInfoInputs.cache
+D:\Dev\MLClassifierStation\MLCS.Common\obj\Debug\netcoreapp5.0\MLCS.Common.AssemblyInfo.cs
+D:\Dev\MLClassifierStation\MLCS.Common\obj\Debug\netcoreapp5.0\MLCS.Common.csproj.CoreCompileInputs.cache
+D:\Dev\MLClassifierStation\MLCS.Common\obj\Debug\netcoreapp5.0\MLCS.Common.dll
+D:\Dev\MLClassifierStation\MLCS.Common\obj\Debug\netcoreapp5.0\MLCS.Common.pdb
+D:\Dev\MLClassifierStation\MLCS.Common\obj\Debug\netcoreapp5.0\MLCS.Common.csprojAssemblyReference.cache

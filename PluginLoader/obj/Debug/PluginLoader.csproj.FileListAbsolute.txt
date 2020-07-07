@@ -1,0 +1,6 @@
+D:\Dev\MLClassifierStation\PluginLoader\bin\Debug\PluginLoader.dll
+D:\Dev\MLClassifierStation\PluginLoader\bin\Debug\PluginLoader.pdb
+D:\Dev\MLClassifierStation\PluginLoader\obj\Debug\PluginLoader.csprojAssemblyReference.cache
+D:\Dev\MLClassifierStation\PluginLoader\obj\Debug\PluginLoader.csproj.CoreCompileInputs.cache
+D:\Dev\MLClassifierStation\PluginLoader\obj\Debug\PluginLoader.dll
+D:\Dev\MLClassifierStation\PluginLoader\obj\Debug\PluginLoader.pdb

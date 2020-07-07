@@ -1,0 +1,5 @@
+restorant: str Sam,Rubin,Sara
+hranene: str Zakuska,Obqd,Ve4erq
+den: str Ponedelnik,Vtornik,Srqda,4etvurtuk,Petuk,Subota,Nedelq
+cena: str Evtina,Skapa
+!reakcia: Da,Ne

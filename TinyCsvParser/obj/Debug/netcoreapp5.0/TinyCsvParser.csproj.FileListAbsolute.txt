@@ -1,0 +1,14 @@
+D:\Dev\MLClassifierStation\TinyCsvParser\bin\Debug\netcoreapp5.0\TinyCsvParser.deps.json
+D:\Dev\MLClassifierStation\TinyCsvParser\bin\Debug\netcoreapp5.0\TinyCsvParser.dll
+D:\Dev\MLClassifierStation\TinyCsvParser\bin\Debug\netcoreapp5.0\TinyCsvParser.pdb
+D:\Dev\MLClassifierStation\TinyCsvParser\bin\Debug\netcoreapp5.0\MLCS.Common.dll
+D:\Dev\MLClassifierStation\TinyCsvParser\bin\Debug\netcoreapp5.0\MLCS.Entities.dll
+D:\Dev\MLClassifierStation\TinyCsvParser\bin\Debug\netcoreapp5.0\MLCS.Entities.pdb
+D:\Dev\MLClassifierStation\TinyCsvParser\bin\Debug\netcoreapp5.0\MLCS.Common.pdb
+D:\Dev\MLClassifierStation\TinyCsvParser\obj\Debug\netcoreapp5.0\TinyCsvParser.csprojAssemblyReference.cache
+D:\Dev\MLClassifierStation\TinyCsvParser\obj\Debug\netcoreapp5.0\TinyCsvParser.AssemblyInfoInputs.cache
+D:\Dev\MLClassifierStation\TinyCsvParser\obj\Debug\netcoreapp5.0\TinyCsvParser.AssemblyInfo.cs
+D:\Dev\MLClassifierStation\TinyCsvParser\obj\Debug\netcoreapp5.0\TinyCsvParser.csproj.CoreCompileInputs.cache
+D:\Dev\MLClassifierStation\TinyCsvParser\obj\Debug\netcoreapp5.0\TinyCsvParser.csproj.CopyComplete
+D:\Dev\MLClassifierStation\TinyCsvParser\obj\Debug\netcoreapp5.0\TinyCsvParser.dll
+D:\Dev\MLClassifierStation\TinyCsvParser\obj\Debug\netcoreapp5.0\TinyCsvParser.pdb

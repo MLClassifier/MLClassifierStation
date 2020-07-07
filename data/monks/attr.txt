@@ -1,0 +1,8 @@
+!class: 1, 0
+a1: str 1, 2, 3
+a2: str 1, 2, 3
+a3: str 1, 2
+a4: str 1, 2, 3
+a5: str 1, 2, 3, 4
+a6: str 1, 2
+-Id: str

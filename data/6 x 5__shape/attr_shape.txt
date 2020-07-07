@@ -1,0 +1,5 @@
+size: str Large,Medium,Small
+shape: str Round,Square,Triangle
+colour: str Red,Green,Blue
+!class: a,b
+material: str Wood,Metal,Plastic

@@ -1,0 +1,7 @@
+mcv: int 80 .. 100
+alkphos: int 0 .. 200
+sgpt: int 0 .. 100
+sgot: int 0 .. 100
+gammagt: int 0 .. 300
+drinks: dou
+!selector: 1,2

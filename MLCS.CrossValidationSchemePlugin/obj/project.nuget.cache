@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "PksKhpuyXX9Qw/Zn8uNE45ZFyZSWRB+3h3KzXDB57854c37o2hN2zkDs8MTsnGNM6Jz+zVGq4e/X/KMTyD+EFw==",
+  "success": true,
+  "projectFilePath": "D:\\Dev\\MLClassifierStation\\MLCS.CrossValidationSchemePlugin\\MLCS.CrossValidationSchemePlugin.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Zekie\\.nuget\\packages\\system.componentmodel.composition\\5.0.0-preview.6.20305.6\\system.componentmodel.composition.5.0.0-preview.6.20305.6.nupkg.sha512",
+    "C:\\Users\\Zekie\\.nuget\\packages\\system.valuetuple\\4.5.0\\system.valuetuple.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

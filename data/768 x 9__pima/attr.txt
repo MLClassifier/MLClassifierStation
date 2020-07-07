@@ -1,0 +1,9 @@
+Number of times pregnant: int 0 .. 15
+Plasma glucose concentration: int 60 ..200
+Diastolic blood pressure: int 0 .. 120
+Triceps skin fold thickness: int 0 .. 70
+2-Hour serum insulin: int 0 .. 600
+Body mass index: dou
+Diabetes pedigree function: dou
+Age: int 0 .. 70
+!Class: 1,0

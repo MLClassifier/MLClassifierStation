@@ -1,0 +1,11 @@
+Bit 1: str 0,1
+Bit 2: str 0,1
+Bit 3: str 0,1
+Bit 4: str 0,1
+Bit 5: str 0,1
+Bit 6: str 0,1
+Bit 7: str 0,1
+Bit 8: str 0,1
+Bit 9: str 0,1
+Bit 10: str 0,1
+!class: 0,1

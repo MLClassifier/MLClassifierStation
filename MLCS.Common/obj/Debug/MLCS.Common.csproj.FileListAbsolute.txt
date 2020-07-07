@@ -1,0 +1,6 @@
+D:\Dev\MLClassifierStation\MLCS.Common\bin\Debug\MLCS.Common.dll
+D:\Dev\MLClassifierStation\MLCS.Common\bin\Debug\MLCS.Common.pdb
+D:\Dev\MLClassifierStation\MLCS.Common\obj\Debug\MLCS.Common.csprojAssemblyReference.cache
+D:\Dev\MLClassifierStation\MLCS.Common\obj\Debug\MLCS.Common.csproj.CoreCompileInputs.cache
+D:\Dev\MLClassifierStation\MLCS.Common\obj\Debug\MLCS.Common.dll
+D:\Dev\MLClassifierStation\MLCS.Common\obj\Debug\MLCS.Common.pdb

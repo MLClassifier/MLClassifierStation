@@ -1,0 +1,1 @@
+start xcopy /s /y /c /r MLCS.LearningAlgorithmPlugins\bin\Debug MLClassifierStation\bin\Debug\Plugins

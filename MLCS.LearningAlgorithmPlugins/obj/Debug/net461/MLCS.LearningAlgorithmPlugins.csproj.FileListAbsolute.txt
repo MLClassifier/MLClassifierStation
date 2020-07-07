@@ -1,0 +1,16 @@
+D:\Dev\MLClassifierStation\MLCS.LearningAlgorithmPlugins\bin\Debug\net461\MLCS.LearningAlgorithmPlugins.dll
+D:\Dev\MLClassifierStation\MLCS.LearningAlgorithmPlugins\bin\Debug\net461\MLCS.LearningAlgorithmPlugins.pdb
+D:\Dev\MLClassifierStation\MLCS.LearningAlgorithmPlugins\bin\Debug\net461\System.ValueTuple.dll
+D:\Dev\MLClassifierStation\MLCS.LearningAlgorithmPlugins\bin\Debug\net461\MLCS.Common.dll
+D:\Dev\MLClassifierStation\MLCS.LearningAlgorithmPlugins\bin\Debug\net461\MLCS.Entities.dll
+D:\Dev\MLClassifierStation\MLCS.LearningAlgorithmPlugins\bin\Debug\net461\MLCS.LearningStatistics.dll
+D:\Dev\MLClassifierStation\MLCS.LearningAlgorithmPlugins\bin\Debug\net461\MLCS.LearningStatistics.pdb
+D:\Dev\MLClassifierStation\MLCS.LearningAlgorithmPlugins\bin\Debug\net461\MLCS.Common.pdb
+D:\Dev\MLClassifierStation\MLCS.LearningAlgorithmPlugins\bin\Debug\net461\MLCS.Entities.pdb
+D:\Dev\MLClassifierStation\MLCS.LearningAlgorithmPlugins\obj\Debug\net461\MLCS.LearningAlgorithmPlugins.csprojAssemblyReference.cache
+D:\Dev\MLClassifierStation\MLCS.LearningAlgorithmPlugins\obj\Debug\net461\MLCS.LearningAlgorithmPlugins.AssemblyInfoInputs.cache
+D:\Dev\MLClassifierStation\MLCS.LearningAlgorithmPlugins\obj\Debug\net461\MLCS.LearningAlgorithmPlugins.AssemblyInfo.cs
+D:\Dev\MLClassifierStation\MLCS.LearningAlgorithmPlugins\obj\Debug\net461\MLCS.LearningAlgorithmPlugins.csproj.CoreCompileInputs.cache
+D:\Dev\MLClassifierStation\MLCS.LearningAlgorithmPlugins\obj\Debug\net461\MLCS.LearningAlgorithmPlugins.csproj.CopyComplete
+D:\Dev\MLClassifierStation\MLCS.LearningAlgorithmPlugins\obj\Debug\net461\MLCS.LearningAlgorithmPlugins.dll
+D:\Dev\MLClassifierStation\MLCS.LearningAlgorithmPlugins\obj\Debug\net461\MLCS.LearningAlgorithmPlugins.pdb

@@ -1,0 +1,5 @@
+Sam,Zakuska,Petuk,Evtina,Da
+Rubin,Obqd,Petuk,Skapa,Ne
+Sam,Obqd,Subota,Evtina,Da
+Sara,Zakuska,Nedelq,Evtina,Ne
+Sam,Zakuska,Nedelq,Skapa,Ne

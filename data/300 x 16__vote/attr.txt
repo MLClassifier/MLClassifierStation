@@ -1,0 +1,17 @@
+handicapped infants: str n,y,u
+water project cost sharing: str n,y,u
+adoption of the budget resolution: str n,y,u
+physician fee freeze: str n,y,u
+el salvador aid: str n,y,u
+religious groups in schools: str n,y,u
+anti satellite test ban: str n,y,u
+aid to nicaraguan contras: str n,y,u
+mx missile: str n,y,u
+immigration: str n,y,u
+synfuels corporation cutback: str n,y,u
+education spending: str n,y,u
+superfund right to sue: str n,y,u
+crime: str n,y,u
+duty free exports: str n,y,u
+export administration act south africa: str n,y,u
+!class: democrat,republican

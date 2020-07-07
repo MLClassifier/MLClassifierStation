@@ -1,0 +1,5 @@
+age: str young,pre-presbyopic,presbyopic
+spectacle-prescrip: str myope,hypermetrope
+astigmatism: str no,yes
+tear-prod-rate: str reduced,normal
+!contact-lenses: yes,none

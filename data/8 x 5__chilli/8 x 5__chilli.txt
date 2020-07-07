@@ -1,0 +1,8 @@
+Zara,Youth,Tall,Heavy,No,Yes
+April,Youth,Average,Heavy,No,Yes
+Pablo,Middle_Aged,Short,Light,Yes,Yes
+Jose,Middle_Aged,Tall,Average,Yes,Yes
+Zapata,Youth,Short,Average,Yes,Yes
+Charles,Middle_Aged,Short,Average,No,No
+Philip,Senior_Citizen,Average,Heavy,No,No
+Diana,Middle_Aged,Average,Light,No,No

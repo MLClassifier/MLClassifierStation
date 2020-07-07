@@ -1,0 +1,17 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFramework>netcoreapp5.0</TargetFramework>
+    <AssemblyTitle>MLCS.FileParser</AssemblyTitle>
+    <Product>MLCS.FileParser</Product>
+    <Copyright>Copyright ©  2018</Copyright>
+    <OutputPath>bin\$(Configuration)\</OutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <PackageReference Include="Microsoft.CSharp" Version="4.7.0" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\MLCS.Common\MLCS.Common.csproj" />
+    <ProjectReference Include="..\MLCS.Entities\MLCS.Entities.csproj" />
+    <ProjectReference Include="..\TinyCsvParser\TinyCsvParser.csproj" />
+  </ItemGroup>
+</Project>

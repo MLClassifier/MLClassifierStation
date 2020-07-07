@@ -1,0 +1,14 @@
+D:\Dev\MLClassifierStation\MLCS.LearningStatistics\bin\Debug\net461\MLCS.LearningStatistics.dll
+D:\Dev\MLClassifierStation\MLCS.LearningStatistics\bin\Debug\net461\MLCS.LearningStatistics.pdb
+D:\Dev\MLClassifierStation\MLCS.LearningStatistics\bin\Debug\net461\System.ValueTuple.dll
+D:\Dev\MLClassifierStation\MLCS.LearningStatistics\bin\Debug\net461\MLCS.Common.dll
+D:\Dev\MLClassifierStation\MLCS.LearningStatistics\bin\Debug\net461\MLCS.Entities.dll
+D:\Dev\MLClassifierStation\MLCS.LearningStatistics\bin\Debug\net461\MLCS.Common.pdb
+D:\Dev\MLClassifierStation\MLCS.LearningStatistics\bin\Debug\net461\MLCS.Entities.pdb
+D:\Dev\MLClassifierStation\MLCS.LearningStatistics\obj\Debug\net461\MLCS.LearningStatistics.csprojAssemblyReference.cache
+D:\Dev\MLClassifierStation\MLCS.LearningStatistics\obj\Debug\net461\MLCS.LearningStatistics.AssemblyInfoInputs.cache
+D:\Dev\MLClassifierStation\MLCS.LearningStatistics\obj\Debug\net461\MLCS.LearningStatistics.AssemblyInfo.cs
+D:\Dev\MLClassifierStation\MLCS.LearningStatistics\obj\Debug\net461\MLCS.LearningStatistics.csproj.CoreCompileInputs.cache
+D:\Dev\MLClassifierStation\MLCS.LearningStatistics\obj\Debug\net461\MLCS.LearningStatistics.csproj.CopyComplete
+D:\Dev\MLClassifierStation\MLCS.LearningStatistics\obj\Debug\net461\MLCS.LearningStatistics.dll
+D:\Dev\MLClassifierStation\MLCS.LearningStatistics\obj\Debug\net461\MLCS.LearningStatistics.pdb

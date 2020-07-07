@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>TinyCsvParser</id>
+    <version>2.0.0</version>
+    <authors>Philipp Wagner</authors>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <licenseUrl>https://opensource.org/licenses/MIT</licenseUrl>
+    <projectUrl>https://github.com/bytefish/TinyCsvParser</projectUrl>
+    <description>An easy to use and high-performance library for CSV parsing.</description>
+    <copyright>Copyright © 2017 Philipp Wagner</copyright>
+    <tags>csv, parser, csvparser</tags>
+    <repository type="git" url="git://github.com/bytefish/TinyCsvParser" />
+    <dependencies>
+      <group targetFramework=".NETCoreApp5.0">
+        <dependency id="MLCS.Entities" version="1.0.0" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.CSharp" version="4.7.0" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="D:\Dev\MLClassifierStation\TinyCsvParser\bin\Debug\netcoreapp5.0\TinyCsvParser.dll" target="lib\net5.0\TinyCsvParser.dll" />
+  </files>
+</package>
